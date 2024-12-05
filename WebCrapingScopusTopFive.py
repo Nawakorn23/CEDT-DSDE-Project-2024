@@ -39,31 +39,30 @@ data = []
 
 try:
     for country in countries:
+        # Open the Scopus page
+        driver.get("https://www.scopus.com/search/form.uri?display=basic#basic")
+        wait_for_element(driver, By.CLASS_NAME, "Select-module__vDMww", timeout=15)
+
+        # Select "Affiliation country" from the dropdown
+        dropdown = Select(driver.find_element(By.CLASS_NAME, "Select-module__vDMww"))
+        dropdown.select_by_visible_text("Affiliation country")
+
+        # Enter the country in the affiliation search bar
+        affiliation_search = wait_for_element(
+            driver, By.XPATH, '//*[@id="pendo-main-search-bar"]/div/div/label/input'
+        )
+        affiliation_search.clear()
+        affiliation_search.send_keys(country + Keys.ENTER)
+        time.sleep(3)  # Allow results to load
+
         for year in year_range:
-            # Open the Scopus page
-            driver.get("https://www.scopus.com/search/form.uri?display=basic#basic")
-            wait_for_element(driver, By.CLASS_NAME, "Select-module__vDMww", timeout=15)
-
-            # Select "Affiliation country" from the dropdown
-            dropdown = Select(
-                driver.find_element(By.CLASS_NAME, "Select-module__vDMww")
-            )
-            dropdown.select_by_visible_text("Affiliation country")
-
-            # Enter the country in the affiliation search bar
-            affiliation_search = wait_for_element(
-                driver, By.XPATH, '//*[@id="pendo-main-search-bar"]/div/div/label/input'
-            )
-            affiliation_search.clear()
-            affiliation_search.send_keys(country + Keys.ENTER)
-            time.sleep(3)  # Allow results to load
-
-            # Set the year range
+            time.sleep(1)
             year_from = wait_for_element(
                 driver,
                 By.XPATH,
                 '//*[@id="year-section"]/div/div/div/div[2]/div/div[2]/div/div/div/div/div[1]/div/label/input',
             )
+            year_from.clear()
             year_from.send_keys(str(year))
 
             year_to = wait_for_element(
@@ -71,11 +70,10 @@ try:
                 By.XPATH,
                 '//*[@id="year-section"]/div/div/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/label/input',
             )
-            year_to.clear()  # Clear the field completely
-            year_to.click()  # คลิกเพื่อโฟกัสในช่อง input
-            year_to.send_keys(Keys.CONTROL + "a")  # เลือกข้อความทั้งหมด
-            year_to.send_keys(Keys.BACKSPACE)  # ลบข้อความทั้งหมด
-            year_to.send_keys(str(year))  # ใส่ค่าปีใหม่
+            year_to.clear()
+            year_to.send_keys(Keys.CONTROL + "a")  # Select all text
+            year_to.send_keys(Keys.BACKSPACE)  # Clear existing value
+            year_to.send_keys(str(year))  # Set new value
 
             # Click "Apply" for the year range
             button_year = wait_for_element(
@@ -93,14 +91,18 @@ try:
 
             # Wait for the Subject Area section to load
             subject_area_section = wait_for_element(
-                driver, By.XPATH, '//div[@data-testid="facet-group-subject-area"]'
+                driver,
+                By.XPATH,
+                '//div[@data-testid="facet-group-subject-area"]',
             )
 
             # Locate all subject rows within the Subject Area section
             subject_rows = subject_area_section.find_elements(
                 By.XPATH, './/label[@class="Checkbox-module__jE3jb"]'
             )
+            print(f"Found {len(subject_rows)} subject rows.")
 
+            time.sleep(5)
             # Extract Subject Area and Number of Documents
             for row in subject_rows:
                 try:
@@ -123,12 +125,23 @@ try:
                     print(f"Error extracting data for {country}, {year}: {e}")
 
             print(f"Data for {country}, {year} collected successfully!")
+            ClosePopup = wait_for_element(
+                driver,
+                By.XPATH,
+                '//*[@id="container"]/micro-ui/document-search-results-page/div[1]/section[2]/div/div[1]/div[2]/div/div[2]/div/div[14]/div/div/section/header/button/span[1]',
+            ).click()
+            print(f"Close popup {country}, {year}")
+
+            reset_year = wait_for_element(
+                driver,
+                By.XPATH,
+                '//*[@id="container"]/micro-ui/document-search-results-page/div[1]/section[2]/div/div[1]/div[2]/div/div[2]/div/div[1]/div/button/span',
+            )
+            reset_year.click()
 
     # Save data to a CSV file
     df = pd.DataFrame(data)
-    output_path = (
-        r"C:\Users\Asus\CEDT-DSDE-Project-2024\scopus_multiple_countries_years.csv"
-    )
+    output_path = r"C:\Users\Asus\CEDT-DSDE-Project-2024\scopus_multiple_countries_years_top_five.csv"
     df.to_csv(output_path, index=False)
     print(f"All data exported successfully to {output_path}")
 
