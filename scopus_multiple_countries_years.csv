@@ -2,70 +2,51 @@ Country,Year,Subject Area,Number of Documents
 Afghanistan,2018,Medicine,80
 Afghanistan,2018,Mathematics,40
 Afghanistan,2018,Engineering,32
-Afghanistan,2018,"Biochemistry, Genetics and Molecular Biology",31
 Afghanistan,2018,Social Sciences,31
+Afghanistan,2018,"Biochemistry, Genetics and Molecular Biology",31
+Afghanistan,2018,Earth and Planetary Sciences,27
+Afghanistan,2018,Agricultural and Biological Sciences,25
+Afghanistan,2018,Decision Sciences,24
+Afghanistan,2018,Environmental Science,19
+Afghanistan,2018,Computer Science,15
+Afghanistan,2018,Multidisciplinary,10
+Afghanistan,2018,Energy,10
+Afghanistan,2018,Veterinary,7
+Afghanistan,2018,Arts and Humanities,7
+Afghanistan,2018,Immunology and Microbiology,6
+Afghanistan,2018,"Business, Management and Accounting",6
+Afghanistan,2018,"Pharmacology, Toxicology and Pharmaceutics",5
+Afghanistan,2018,"Economics, Econometrics and Finance",5
+Afghanistan,2018,Physics and Astronomy,3
+Afghanistan,2018,Nursing,3
+Afghanistan,2018,Health Professions,3
+Afghanistan,2018,Chemical Engineering,3
+Afghanistan,2018,Psychology,1
+Afghanistan,2018,Neuroscience,1
+Afghanistan,2018,Materials Science,1
+Afghanistan,2018,Chemistry,1
 Afghanistan,2019,Medicine,93
 Afghanistan,2019,Engineering,70
 Afghanistan,2019,Agricultural and Biological Sciences,51
 Afghanistan,2019,Mathematics,49
 Afghanistan,2019,Social Sciences,48
-Afghanistan,2020,Medicine,122
-Afghanistan,2020,Social Sciences,70
-Afghanistan,2020,Engineering,54
-Afghanistan,2020,Environmental Science,51
-Afghanistan,2020,Computer Science,43
-Afghanistan,2021,Medicine,260
-Afghanistan,2021,Social Sciences,71
-Afghanistan,2021,Environmental Science,68
-Afghanistan,2021,Agricultural and Biological Sciences,59
-Afghanistan,2021,Engineering,52
-Afghanistan,2022,Medicine,317
-Afghanistan,2022,Engineering,98
-Afghanistan,2022,Computer Science,91
-Afghanistan,2022,Social Sciences,87
-Afghanistan,2022,Agricultural and Biological Sciences,72
-Afghanistan,2023,Medicine,221
-Afghanistan,2023,Agricultural and Biological Sciences,86
-Afghanistan,2023,Social Sciences,84
-Afghanistan,2023,Environmental Science,79
-Afghanistan,2023,Engineering,77
-Afghanistan,2024,Medicine,180
-Afghanistan,2024,Multidisciplinary,118
-Afghanistan,2024,Engineering,110
-Afghanistan,2024,Social Sciences,86
-Afghanistan,2024,Agricultural and Biological Sciences,85
-Albania,2018,Computer Science,124
-Albania,2018,Medicine,119
-Albania,2018,Engineering,99
-Albania,2018,Social Sciences,94
-Albania,2018,Agricultural and Biological Sciences,71
-Albania,2019,Medicine,161
-Albania,2019,Engineering,107
-Albania,2019,Social Sciences,100
-Albania,2019,Agricultural and Biological Sciences,83
-Albania,2019,Computer Science,78
-Albania,2020,Medicine,206
-Albania,2020,Environmental Science,129
-Albania,2020,Social Sciences,114
-Albania,2020,Engineering,108
-Albania,2020,Computer Science,105
-Albania,2021,Medicine,256
-Albania,2021,Social Sciences,212
-Albania,2021,Environmental Science,163
-Albania,2021,Computer Science,139
-Albania,2021,Engineering,139
-Albania,2022,Medicine,271
-Albania,2022,Social Sciences,245
-Albania,2022,Engineering,198
-Albania,2022,Computer Science,169
-Albania,2022,Environmental Science,134
-Albania,2023,Social Sciences,325
-Albania,2023,Medicine,278
-Albania,2023,Engineering,194
-Albania,2023,Computer Science,171
-Albania,2023,Environmental Science,147
-Albania,2024,Social Sciences,313
-Albania,2024,Medicine,277
-Albania,2024,Engineering,213
-Albania,2024,Environmental Science,148
-Albania,2024,Computer Science,142
+Afghanistan,2019,Computer Science,47
+Afghanistan,2019,Environmental Science,39
+Afghanistan,2019,"Biochemistry, Genetics and Molecular Biology",25
+Afghanistan,2019,Earth and Planetary Sciences,24
+Afghanistan,2019,Multidisciplinary,22
+Afghanistan,2019,"Economics, Econometrics and Finance",18
+Afghanistan,2019,Energy,14
+Afghanistan,2019,"Business, Management and Accounting",14
+Afghanistan,2019,Materials Science,13
+Afghanistan,2019,Decision Sciences,12
+Afghanistan,2019,Arts and Humanities,12
+Afghanistan,2019,Veterinary,9
+Afghanistan,2019,"Pharmacology, Toxicology and Pharmaceutics",7
+Afghanistan,2019,Nursing,7
+Afghanistan,2019,Immunology and Microbiology,7
+Afghanistan,2019,Physics and Astronomy,6
+Afghanistan,2019,Chemistry,4
+Afghanistan,2019,Chemical Engineering,4
+Afghanistan,2019,Psychology,1
+Afghanistan,2019,Neuroscience,1
