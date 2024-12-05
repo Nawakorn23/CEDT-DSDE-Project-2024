@@ -1,11 +1,11 @@
+import pandas as pd
+import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
-import pandas as pd
-import time
 
 
 # Function to wait for an element to appear
@@ -28,16 +28,26 @@ options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=options)
 
 # Load the CSV file containing affiliations
-country = pd.read_csv(
+countries_data = pd.read_csv(
     r"C:\Users\Asus\CEDT-DSDE-Project-2024\Affiliationresult_country.csv"
 )
-countries = country["affiliation-country"].tolist()
+countries = countries_data["affiliation-country"].tolist()
 
 year_range = range(2018, 2025)
 data = []
 
+output_path = (
+    r"C:\Users\Asus\CEDT-DSDE-Project-2024\scopus_multiple_countries_years.csv"
+)
+
+# Create or overwrite the output file with headers
+pd.DataFrame(columns=["Country", "Year", "Subject Area", "Number of Documents"]).to_csv(
+    output_path, index=False
+)
+
 try:
     for country in countries:
+        print(f"Processing data for country: {country}")
         # Open the Scopus page
         driver.get("https://www.scopus.com/search/form.uri?display=basic#basic")
         wait_for_element(driver, By.CLASS_NAME, "Select-module__vDMww", timeout=15)
@@ -101,7 +111,6 @@ try:
 
             print(f"Found {len(subject_labels)} subject rows.")
 
-            time.sleep(2)
             # Extract subject name and document count
             for label in subject_labels:
                 try:
@@ -125,6 +134,7 @@ try:
 
             print(f"Data for {country}, {year} collected successfully!")
 
+            # Close the popup
             ClosePopup = wait_for_element(
                 driver,
                 By.XPATH,
@@ -133,16 +143,15 @@ try:
             print(f"Close popup {country}, {year}")
             driver.back()
 
-    # Save data to a CSV file
-    df = pd.DataFrame(data)
-    output_path = (
-        r"C:\Users\Asus\CEDT-DSDE-Project-2024\scopus_multiple_countries_years.csv"
-    )
-    df.to_csv(output_path, index=False)
-    print(f"All data exported successfully to {output_path}")
+        # Append the current country's data to the output CSV
+        df = pd.DataFrame(data)
+        df.to_csv(output_path, mode="a", header=False, index=False)
+        print(f"Data for {country} saved successfully!")
+        data.clear()  # Clear data for the next country
 
 except Exception as e:
     print(f"An error occurred: {e}")
 
-# finally:
-#     driver.quit()
+finally:
+    driver.quit()
+    print("Script execution completed.")
