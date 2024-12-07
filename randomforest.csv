@@ -1,0 +1,172 @@
+,Country,Subject Area,Year2025_pred
+1,Afghanistan,Multidisciplinary,8.743589743589745
+2,Albania,Economics,85.4412191582003
+8,Algeria,Energy,29.34571079367502
+15,Angola,Medicine,0.0
+31,Argentina,Veterinary,19.282732860923762
+36,Armenia,Materials Science,33.18413342255799
+40,Aruba,Medicine,1.5769230769230769
+66,Australia,Social Sciences,11.073354561513305
+78,Austria,Health Professions,23.23703594650964
+91,Azerbaijan,Medicine,1.899299719887955
+95,Bahrain,Economics,64.7595619423724
+103,Bangladesh,Business,11.709724238026125
+124,Belarus,Economics,28.055525894190293
+153,Belgium,Veterinary,13.538023990437969
+154,Belize,Multidisciplinary,5.041666666666667
+155,Benin,Earth and Planetary Sciences,64.08333333333333
+160,Bhutan,Dentistry,85.02830188679246
+166,Bolivia,Earth and Planetary Sciences,86.40330188679245
+175,Bosnia and Herzegovina,Medicine,2.012746331236897
+178,Botswana,Biochemistry,0.21522084402809086
+207,Brazil,Veterinary,23.945331113577502
+212,Brunei Darussalam,Environmental Science,2.432099513817277
+218,Bulgaria,Dentistry,6.593364934448823
+234,Burkina Faso,Veterinary,38.52098039215687
+236,Burundi,Multidisciplinary,0.1736111111111111
+241,Cambodia,Dentistry,64.11263510179317
+253,Cameroon,Business,36.04711629985747
+284,Canada,Veterinary,9.31051832905382
+286,Cape Verde,Multidisciplinary,2.5
+288,Central African Republic,Medicine,0.0
+289,Chad,Immunology and Microbiology,0.8617921482382669
+298,Chile,Earth and Planetary Sciences,53.70943136135156
+324,China,Dentistry,15.034255040305988
+360,Colombia,Social Sciences,14.531666901558383
+361,Congo,Multidisciplinary,1.216279069767442
+362,Costa Rica,Biochemistry,3.8478349313014375
+373,Cote d'Ivoire,Medicine,1.5295309356136821
+375,Croatia,Agricultural and Biological Sciences,15.250439882697936
+400,Cuba,Veterinary,41.36503095470838
+403,Cyprus,Dentistry,55.331631802419935
+412,Czech Republic,Biochemistry,13.748814116972875
+432,Democratic Republic Congo,Medicine,3.1392801251956177
+459,Denmark,Veterinary,10.638771840464363
+460,Dominican Republic,Medicine,0.8357142857142857
+476,Ecuador,Social Sciences,16.84031423725777
+480,Egypt,Chemical Engineering,11.315428478331706
+501,El Salvador,Medicine,0.0
+502,Eritrea,Environmental Science,0.0
+508,Estonia,Earth and Planetary Sciences,44.76785714285715
+524,Ethiopia,Multidisciplinary,21.369641660664584
+530,Federated States of Micronesia,Computer Scienc,3.893386650279772s3
+531,Fiji,Agricultural and Biological Sciences,39.28184756074761
+544,Finland,Health Professions,10.733554810399067
+564,France,Earth and Planetary Sciences,9.184766302784844
+582,French Guiana,Medicine,0.0
+584,Gabon,Nursing,11.313227311511705
+586,Gambia,Medicine,0.44444444444444436
+592,Georgia,Neuroscience,66.85382513661204
+621,Germany,Social Sciences,12.239714748159734
+635,Ghana,Neuroscience,25.88076619379619
+658,Greece,Social Sciences,15.005401713362446
+660,Guatemala,Biochemistry,0.2178932178932179
+663,Guinea,Earth and Planetary Sciences,81.99567099567099
+665,Guinea-Bissau,Multidisciplinary,0.0
+666,Guyana,Dentistry,89.1373889268626
+668,Haiti,Medicine,0.319577023832343
+670,Honduras,Medicine,4.857142857142857
+677,Hong Kong,Computer Scienc,10.410942558419809
+702,Hungary,Dentistry,39.19384825700618
+724,Iceland,Earth and Planetary Sciences,26.694190020505793
+733,India,Biochemistry,12.134578240305354
+758,Indonesia,Agricultural and Biological Sciences,9.250545954475795
+791,Iran,Dentistry,8.310739841178048
+827,Iraq,Pharmacology,11.902626687523416
+852,Ireland,Pharmacology,11.348799441977846
+876,Israel,Social Sciences,13.832679367942276
+886,Italy,Dentistry,8.945119656737008
+907,Jamaica,Medicine,0.2556281805680638
+911,Japan,Biochemistry,13.786729605784453
+946,Jordan,Nursing,20.700678138188636
+950,Kazakhstan,Agricultural and Biological Sciences,57.13813813813814
+970,Kenya,Veterinary,38.90851554358978
+974,Kuwait,Medicine,6.612061924561925
+978,Kyrgyzstan,Medicine,2.0988095238095235
+982,Laos,Earth and Planetary Sciences,24.768831168831166
+998,Latvia,Physics and Astronomy,2.474025974025974
+1005,Lebanon,Dentistry,30.446753246753246
+1020,Liberia,Medicine,0.0
+1021,Libya,Medicine,0.0
+1028,Lithuania,Physics and Astronomy,54.188311688311686
+1036,Luxembourg,Neuroscience,69.68046571161327
+1039,Macao,Multidisciplinary,80.90687736917245
+1044,Madagascar,Veterinary,84.177130977131
+1047,Malawi,Medicine,3.5137163561076603
+1062,Malaysia,Environmental Science,7.33625345534373
+1076,Maldives,Medicine,0.0
+1077,Mali,Medicine,0.0
+1085,Malta,Social Sciences,42.48539242495051
+1086,Mauritania,Medicine,0.5054945054945054
+1089,Mauritius,Multidisciplinary,1.6347826086956518
+1103,Mexico,Mathematics,35.6239661126867
+1113,Moldova,Nursing,75.1055234620452
+1116,Monaco,Multidisciplinary,76.30515016384582
+1120,Mongolia,Earth and Planetary Sciences,74.92115348419699
+1127,Montenegro,Physics and Astronomy,2.142857142857143
+1135,Morocco,Earth and Planetary Sciences,27.87752066773805
+1147,Mozambique,Medicine,3.941269841269841
+1163,Myanmar,Veterinary,6.434828998341053
+1164,Namibia,Physics and Astronomy,0.3285024154589372
+1176,Nepal,Multidisciplinary,43.12799736495387
+1199,Netherlands,Nursing,13.369455423803231
+1222,New Zealand,Nursing,19.040953008344278
+1228,Nicaragua,Dentistry,64.92028985507248
+1231,Niger,Medicine,0.0
+1254,Nigeria,Veterinary,18.740961498077613
+1255,North Macedonia,Dentistry,2.4722222222222223
+1266,Norway,Dentistry,20.62903111381373
+1282,Oman,Arts and Humanities,33.50553359683794
+1300,Pakistan,Earth and Planetary Sciences,9.031825694557659
+1317,Palestine,Arts and Humanities,68.52267913246176
+1327,Panama,Agricultural and Biological Sciences,14.74774030126778
+1330,Papua New Guinea,Agricultural and Biological Sciences,28.0
+1332,Paraguay,Biochemistry,1.6666666666666663
+1344,Peru,Neuroscience,22.806668279309783
+1356,Philippines,Economics,25.065945682224744
+1381,Poland,Economics,19.9006414438696
+1407,Portugal,Economics,11.89305213395471
+1424,Puerto Rico,Physics and Astronomy,11.792527144986162
+1426,Qatar,Arts and Humanities,31.072948164466585
+1457,Romania,Veterinary,23.540430490707944
+1465,Russian Federation,Economics,19.15825759362591
+1484,Rwanda,Veterinary,24.1361318447903
+1491,Saudi Arabia,Dentistry,13.9092845182586
+1515,Senegal,Social Sciences,2.3007936507936506
+1534,Serbia,Social Sciences,13.71801599998295
+1536,Seychelles,Multidisciplinary,0.0
+1537,Sierra Leone,Biochemistry,3.248562578310616
+1546,Singapore,Decision Sciences,7.478802846649303
+1571,Slovakia,Economics,8.362866683394838
+1581,Slovenia,Agricultural and Biological Sciences,21.87969219219219
+1599,Somalia,Multidisciplinary,5.83695652173913
+1622,South Africa,Social Sciences,17.56850299076601
+1640,South Korea,Materials Science,7.10619450367551
+1651,South Sudan,Environmental Science,0.9883121916842847
+1660,Spain,Decision Sciences,8.063615717430665
+1684,Sri Lanka,Decision Sciences,31.095853874753566
+1695,Sudan,Agricultural and Biological Sciences,35.94823393423694
+1703,Swaziland,Medicine,0.6166666666666667
+1713,Sweden,Economics,15.703965275732596
+1756,Switzerland,Veterinary,12.01214669595642
+1760,Syrian Arab Republic,Dentistry,50.25739787272556
+1771,Taiwan,Decision Sciences,12.205466666451676
+1793,Tanzania,Medicine,26.142857142857125
+1802,Thailand,Chemistry,7.215454032047399
+1824,Timor-Leste,Medicine,0.5058052434456929
+1827,Togo,Physics and Astronomy,61.4137749890559
+1830,Trinidad and Tobago,Medicine,2.1428571428571423
+1847,Tunisia,Physics and Astronomy,23.7623084780388
+1858,Turkey,Dentistry,25.401059146845654
+1881,Uganda,Dentistry,35.83298068972222
+1896,Ukraine,Mathematics,19.387749272585367
+1905,United Arab Emirates,Chemical Engineering,8.672660173949037
+1939,United Kingdom,Health Professions,10.194757596023102
+1978,United States,Veterinary,9.46766611101412
+1981,Uruguay,Multidisciplinary,78.18576356760673
+1986,Uzbekistan,Physics and Astronomy,5.714285714285714
+1991,Venezuela,Social Sciences,48.7019200836616
+2001,Viet Nam,Economics,18.56094912137116
+2017,Yemen,Agricultural and Biological Sciences,39.53474025974021
+2025,Zambia,Veterinary,78.03552640182315
+2026,Zimbabwe,Medicine,10.334123690970165
