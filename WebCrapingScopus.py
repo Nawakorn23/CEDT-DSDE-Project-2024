@@ -37,7 +37,7 @@ year_range = range(2018, 2025)
 data = []
 
 output_path = (
-    r"C:\Users\Asus\CEDT-DSDE-Project-2024\scopus_multiple_countries_years.csv"
+    r"C:\Users\Asus\CEDT-DSDE-Project-2024\scopus.csv"
 )
 
 # Create or overwrite the output file with headers
