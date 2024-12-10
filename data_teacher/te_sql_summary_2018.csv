@@ -1,0 +1,658 @@
+Country,Year,Subject Area,Number of Documents
+Argentina,2018,BIOC,1
+Argentina,2018,ENVI,1
+Argentina,2018,MATE,2
+Argentina,2018,MEDI,3
+Argentina,2018,NEUR,1
+Argentina,2018,PHYS,1
+Armenia,2018,ENGI,19
+Armenia,2018,PHYS,128
+Australia,2018,AGRI,2
+Australia,2018,ARTS,2
+Australia,2018,BIOC,12
+Australia,2018,BUSI,1
+Australia,2018,CENG,1
+Australia,2018,CHEM,8
+Australia,2018,EART,6
+Australia,2018,ENVI,3
+Australia,2018,HEAL,3
+Australia,2018,IMMU,4
+Australia,2018,MATH,1
+Australia,2018,MEDI,37
+Australia,2018,MULT,2
+Australia,2018,NEUR,21
+Australia,2018,NURS,2
+Australia,2018,PHAR,12
+Australia,2018,PHYS,67
+Australia,2018,PSYC,1
+Australia,2018,SOCI,1
+Austria,2018,BIOC,1
+Austria,2018,CENG,2
+Austria,2018,CHEM,4
+Austria,2018,EART,4
+Austria,2018,ENER,2
+Austria,2018,ENGI,19
+Austria,2018,ENVI,1
+Austria,2018,MATE,1
+Austria,2018,MATH,1
+Austria,2018,MEDI,4
+Austria,2018,MULT,1
+Austria,2018,NEUR,1
+Austria,2018,PHAR,1
+Austria,2018,PHYS,127
+Austria,2018,SOCI,4
+Azerbaijan,2018,PHYS,1
+Bahrain,2018,MEDI,1
+Bahrain,2018,NEUR,1
+Bangladesh,2018,MEDI,3
+Bangladesh,2018,NEUR,1
+Belarus,2018,ENGI,19
+Belarus,2018,PHYS,127
+Belgium,2018,AGRI,1
+Belgium,2018,BIOC,5
+Belgium,2018,DENT,3
+Belgium,2018,EART,1
+Belgium,2018,ECON,1
+Belgium,2018,ENER,1
+Belgium,2018,ENGI,19
+Belgium,2018,HEAL,1
+Belgium,2018,MEDI,16
+Belgium,2018,MULT,1
+Belgium,2018,NEUR,1
+Belgium,2018,PHYS,131
+Belgium,2018,PSYC,1
+Bhutan,2018,BIOC,1
+Bhutan,2018,MEDI,1
+Bhutan,2018,SOCI,1
+Bolivia,2018,MEDI,1
+Brazil,2018,BIOC,5
+Brazil,2018,CHEM,1
+Brazil,2018,DENT,1
+Brazil,2018,ENGI,19
+Brazil,2018,ENVI,2
+Brazil,2018,HEAL,1
+Brazil,2018,IMMU,1
+Brazil,2018,MEDI,18
+Brazil,2018,NEUR,14
+Brazil,2018,PHAR,7
+Brazil,2018,PHYS,128
+Brazil,2018,PSYC,2
+Brunei Darussalam,2018,ENVI,1
+Bulgaria,2018,BIOC,4
+Bulgaria,2018,ENGI,19
+Bulgaria,2018,MEDI,5
+Bulgaria,2018,NEUR,18
+Bulgaria,2018,PHAR,8
+Bulgaria,2018,PHYS,127
+Bulgaria,2018,PSYC,1
+Cambodia,2018,ENGI,2
+Cambodia,2018,ENVI,2
+Cambodia,2018,MEDI,4
+Canada,2018,AGRI,3
+Canada,2018,BIOC,5
+Canada,2018,BUSI,1
+Canada,2018,CENG,3
+Canada,2018,CHEM,4
+Canada,2018,DENT,1
+Canada,2018,ECON,1
+Canada,2018,ENVI,2
+Canada,2018,HEAL,1
+Canada,2018,IMMU,2
+Canada,2018,MATE,3
+Canada,2018,MEDI,23
+Canada,2018,NEUR,7
+Canada,2018,PHAR,5
+Canada,2018,PHYS,3
+Canada,2018,PSYC,1
+Chile,2018,ENVI,3
+Chile,2018,MATE,1
+Chile,2018,MEDI,9
+Chile,2018,NEUR,1
+Chile,2018,PHYS,4
+Chile,2018,SOCI,1
+China,2018,AGRI,3
+China,2018,ARTS,1
+China,2018,BIOC,3
+China,2018,CENG,3
+China,2018,CHEM,7
+China,2018,EART,3
+China,2018,ECON,1
+China,2018,ENER,5
+China,2018,ENGI,24
+China,2018,ENVI,8
+China,2018,IMMU,2
+China,2018,MATE,7
+China,2018,MATH,1
+China,2018,MEDI,29
+China,2018,MULT,2
+China,2018,NEUR,1
+China,2018,NURS,2
+China,2018,PHAR,1
+China,2018,PHYS,136
+China,2018,SOCI,3
+Colombia,2018,ENGI,19
+Colombia,2018,MEDI,1
+Colombia,2018,PHYS,127
+Costa Rica,2018,BIOC,1
+Costa Rica,2018,ENVI,1
+Costa Rica,2018,HEAL,1
+Croatia,2018,ENGI,19
+Croatia,2018,HEAL,1
+Croatia,2018,NEUR,1
+Croatia,2018,PHYS,129
+Cuba,2018,MEDI,1
+Cyprus,2018,ENGI,19
+Cyprus,2018,PHYS,128
+Czech Republic,2018,AGRI,2
+Czech Republic,2018,BIOC,1
+Czech Republic,2018,ENGI,20
+Czech Republic,2018,MEDI,3
+Czech Republic,2018,NEUR,1
+Czech Republic,2018,PHYS,127
+Denmark,2018,AGRI,5
+Denmark,2018,BIOC,1
+Denmark,2018,ENVI,1
+Denmark,2018,HEAL,1
+Denmark,2018,MEDI,5
+Denmark,2018,PHAR,1
+Denmark,2018,PHYS,7
+Denmark,2018,SOCI,1
+Denmark,2018,VETE,1
+Dominican Republic,2018,MEDI,1
+Ecuador,2018,ENGI,19
+Ecuador,2018,PHYS,127
+Egypt,2018,BIOC,1
+Egypt,2018,ENGI,19
+Egypt,2018,IMMU,1
+Egypt,2018,PHAR,1
+Egypt,2018,PHYS,127
+Egypt,2018,SOCI,1
+Estonia,2018,ENGI,19
+Estonia,2018,ENVI,1
+Estonia,2018,PHYS,127
+Ethiopia,2018,EART,1
+Finland,2018,AGRI,2
+Finland,2018,BIOC,2
+Finland,2018,ENGI,20
+Finland,2018,ENVI,1
+Finland,2018,HEAL,1
+Finland,2018,MEDI,1
+Finland,2018,PHYS,127
+France,2018,AGRI,4
+France,2018,BIOC,5
+France,2018,BUSI,1
+France,2018,CENG,3
+France,2018,CHEM,3
+France,2018,DENT,1
+France,2018,EART,1
+France,2018,ENGI,22
+France,2018,ENVI,3
+France,2018,IMMU,1
+France,2018,MATE,1
+France,2018,MEDI,15
+France,2018,MULT,2
+France,2018,NEUR,6
+France,2018,PHAR,1
+France,2018,PHYS,133
+France,2018,VETE,1
+Georgia,2018,ENGI,19
+Georgia,2018,PHYS,127
+Germany,2018,AGRI,2
+Germany,2018,BIOC,5
+Germany,2018,CHEM,4
+Germany,2018,COMP,1
+Germany,2018,EART,3
+Germany,2018,ENGI,20
+Germany,2018,ENVI,2
+Germany,2018,HEAL,2
+Germany,2018,IMMU,1
+Germany,2018,MATE,2
+Germany,2018,MATH,1
+Germany,2018,MEDI,12
+Germany,2018,MULT,1
+Germany,2018,NEUR,2
+Germany,2018,PHYS,139
+Germany,2018,PSYC,1
+Germany,2018,SOCI,4
+Germany,2018,VETE,1
+Ghana,2018,BIOC,1
+Greece,2018,BIOC,2
+Greece,2018,ENGI,19
+Greece,2018,MEDI,3
+Greece,2018,PHYS,132
+Greece,2018,SOCI,1
+Greece,2018,VETE,1
+Honduras,2018,MEDI,1
+Hong Kong,2018,BIOC,2
+Hong Kong,2018,ENVI,2
+Hong Kong,2018,IMMU,1
+Hong Kong,2018,MATE,2
+Hong Kong,2018,MEDI,14
+Hong Kong,2018,MULT,1
+Hong Kong,2018,NEUR,2
+Hong Kong,2018,PHYS,1
+Hungary,2018,EART,1
+Hungary,2018,ENGI,19
+Hungary,2018,MEDI,1
+Hungary,2018,PHYS,127
+Hungary,2018,SOCI,1
+Iceland,2018,AGRI,1
+Iceland,2018,CHEM,1
+Iceland,2018,PHAR,3
+Iceland,2018,PSYC,1
+India,2018,AGRI,1
+India,2018,BIOC,2
+India,2018,BUSI,1
+India,2018,CHEM,5
+India,2018,COMP,2
+India,2018,EART,1
+India,2018,ENGI,19
+India,2018,ENVI,3
+India,2018,MATE,1
+India,2018,MEDI,16
+India,2018,MULT,1
+India,2018,NEUR,1
+India,2018,PHYS,128
+India,2018,SOCI,3
+Indonesia,2018,AGRI,1
+Indonesia,2018,CHEM,2
+Indonesia,2018,EART,1
+Indonesia,2018,ENER,1
+Indonesia,2018,ENGI,2
+Indonesia,2018,IMMU,1
+Indonesia,2018,MEDI,14
+Indonesia,2018,MULT,1
+Indonesia,2018,NEUR,1
+Indonesia,2018,NURS,3
+Indonesia,2018,PHAR,1
+Indonesia,2018,PHYS,1
+Indonesia,2018,SOCI,1
+Iran,2018,ENGI,20
+Iran,2018,HEAL,1
+Iran,2018,MEDI,2
+Iran,2018,MULT,1
+Iran,2018,NEUR,1
+Iran,2018,PHYS,127
+Iraq,2018,NEUR,1
+Ireland,2018,EART,1
+Ireland,2018,ENGI,19
+Ireland,2018,MEDI,1
+Ireland,2018,NEUR,1
+Ireland,2018,PHYS,128
+Israel,2018,EART,1
+Israel,2018,MEDI,2
+Israel,2018,PHYS,1
+Israel,2018,PSYC,1
+Italy,2018,BIOC,3
+Italy,2018,CHEM,1
+Italy,2018,EART,1
+Italy,2018,ENGI,19
+Italy,2018,ENVI,2
+Italy,2018,IMMU,1
+Italy,2018,MATH,1
+Italy,2018,MEDI,6
+Italy,2018,MULT,1
+Italy,2018,NEUR,2
+Italy,2018,PHAR,1
+Italy,2018,PHYS,133
+Italy,2018,PSYC,1
+Italy,2018,VETE,1
+Jamaica,2018,HEAL,1
+Japan,2018,AGRI,10
+Japan,2018,BIOC,29
+Japan,2018,CENG,13
+Japan,2018,CHEM,23
+Japan,2018,COMP,13
+Japan,2018,DENT,3
+Japan,2018,EART,11
+Japan,2018,ENER,6
+Japan,2018,ENGI,16
+Japan,2018,ENVI,10
+Japan,2018,HEAL,1
+Japan,2018,IMMU,11
+Japan,2018,MATE,24
+Japan,2018,MATH,3
+Japan,2018,MEDI,35
+Japan,2018,MULT,12
+Japan,2018,NEUR,5
+Japan,2018,PHAR,6
+Japan,2018,PHYS,25
+Japan,2018,SOCI,2
+Japan,2018,VETE,1
+Jordan,2018,HEAL,1
+Kenya,2018,MEDI,2
+Kenya,2018,MULT,1
+Kuwait,2018,HEAL,1
+Laos,2018,ENGI,1
+Laos,2018,ENVI,1
+Latvia,2018,ENGI,17
+Latvia,2018,PHYS,127
+Lebanon,2018,HEAL,1
+Lebanon,2018,MEDI,1
+Lithuania,2018,ENGI,19
+Lithuania,2018,PHYS,127
+Luxembourg,2018,MEDI,1
+Malawi,2018,MEDI,1
+Malaysia,2018,AGRI,7
+Malaysia,2018,BIOC,2
+Malaysia,2018,CENG,2
+Malaysia,2018,CHEM,3
+Malaysia,2018,EART,1
+Malaysia,2018,ENER,1
+Malaysia,2018,ENGI,20
+Malaysia,2018,ENVI,3
+Malaysia,2018,HEAL,1
+Malaysia,2018,IMMU,1
+Malaysia,2018,MATH,1
+Malaysia,2018,MEDI,22
+Malaysia,2018,MULT,5
+Malaysia,2018,NEUR,2
+Malaysia,2018,PHAR,1
+Malaysia,2018,PHYS,128
+Malaysia,2018,SOCI,2
+Malaysia,2018,VETE,2
+Malta,2018,HEAL,1
+Mexico,2018,ENGI,19
+Mexico,2018,ENVI,2
+Mexico,2018,MEDI,2
+Mexico,2018,NEUR,1
+Mexico,2018,PHYS,129
+Morocco,2018,BIOC,1
+Morocco,2018,MEDI,1
+Morocco,2018,PHYS,1
+Mozambique,2018,MEDI,1
+Myanmar,2018,BIOC,1
+Myanmar,2018,COMP,1
+Myanmar,2018,MEDI,4
+Myanmar,2018,MULT,1
+Nepal,2018,IMMU,1
+Netherlands,2018,AGRI,1
+Netherlands,2018,BIOC,5
+Netherlands,2018,DENT,1
+Netherlands,2018,HEAL,1
+Netherlands,2018,IMMU,2
+Netherlands,2018,MATH,1
+Netherlands,2018,MEDI,14
+Netherlands,2018,NEUR,9
+Netherlands,2018,PHAR,4
+Netherlands,2018,PHYS,6
+Netherlands,2018,PSYC,1
+Netherlands,2018,SOCI,4
+New Zealand,2018,AGRI,1
+New Zealand,2018,ARTS,1
+New Zealand,2018,BUSI,1
+New Zealand,2018,EART,1
+New Zealand,2018,ENGI,20
+New Zealand,2018,HEAL,2
+New Zealand,2018,PHYS,130
+Nigeria,2018,AGRI,6
+Nigeria,2018,ENER,1
+Nigeria,2018,HEAL,1
+Nigeria,2018,MEDI,2
+Nigeria,2018,VETE,2
+North Macedonia,2018,HEAL,1
+Norway,2018,EART,1
+Norway,2018,ENVI,1
+Norway,2018,HEAL,1
+Norway,2018,MEDI,1
+Norway,2018,NEUR,3
+Norway,2018,PHYS,1
+Pakistan,2018,BIOC,1
+Pakistan,2018,BUSI,1
+Pakistan,2018,CHEM,1
+Pakistan,2018,ENGI,19
+Pakistan,2018,ENVI,1
+Pakistan,2018,IMMU,1
+Pakistan,2018,MATE,1
+Pakistan,2018,MEDI,6
+Pakistan,2018,PHYS,127
+Pakistan,2018,PSYC,1
+Palestine,2018,PHYS,1
+Panama,2018,AGRI,1
+Papua New Guinea,2018,MEDI,1
+Paraguay,2018,BIOC,1
+Peru,2018,BIOC,2
+Peru,2018,MEDI,1
+Philippines,2018,BIOC,1
+Philippines,2018,ENVI,1
+Philippines,2018,MEDI,12
+Philippines,2018,NEUR,3
+Poland,2018,AGRI,2
+Poland,2018,BIOC,2
+Poland,2018,CHEM,1
+Poland,2018,ENGI,20
+Poland,2018,HEAL,1
+Poland,2018,MEDI,4
+Poland,2018,NEUR,1
+Poland,2018,PHAR,6
+Poland,2018,PHYS,130
+Portugal,2018,BIOC,1
+Portugal,2018,ENGI,19
+Portugal,2018,ENVI,1
+Portugal,2018,HEAL,2
+Portugal,2018,PHYS,127
+Puerto Rico,2018,ENGI,19
+Puerto Rico,2018,MEDI,1
+Puerto Rico,2018,PHYS,127
+Qatar,2018,HEAL,1
+Qatar,2018,PHYS,121
+Romania,2018,DENT,1
+Romania,2018,ENGI,2
+Romania,2018,MEDI,2
+Romania,2018,PHYS,1
+Russian Federation,2018,AGRI,2
+Russian Federation,2018,ENGI,19
+Russian Federation,2018,ENVI,2
+Russian Federation,2018,MATH,1
+Russian Federation,2018,MEDI,3
+Russian Federation,2018,NEUR,1
+Russian Federation,2018,PHYS,131
+Russian Federation,2018,PSYC,1
+Saudi Arabia,2018,BIOC,1
+Saudi Arabia,2018,CHEM,1
+Saudi Arabia,2018,DENT,1
+Saudi Arabia,2018,ENVI,1
+Saudi Arabia,2018,HEAL,1
+Saudi Arabia,2018,MEDI,1
+Saudi Arabia,2018,NEUR,1
+Saudi Arabia,2018,PHYS,70
+Serbia,2018,BIOC,1
+Serbia,2018,ENGI,19
+Serbia,2018,HEAL,1
+Serbia,2018,MEDI,2
+Serbia,2018,PHYS,127
+Sierra Leone,2018,BIOC,1
+Singapore,2018,AGRI,3
+Singapore,2018,BIOC,2
+Singapore,2018,EART,1
+Singapore,2018,ENGI,2
+Singapore,2018,ENVI,1
+Singapore,2018,IMMU,1
+Singapore,2018,MEDI,23
+Singapore,2018,MULT,2
+Singapore,2018,NEUR,2
+Singapore,2018,SOCI,1
+Slovakia,2018,BIOC,1
+Slovakia,2018,CENG,1
+Slovakia,2018,CHEM,1
+Slovakia,2018,MATE,1
+Slovakia,2018,MATH,1
+Slovakia,2018,PHYS,2
+Slovenia,2018,NEUR,2
+Slovenia,2018,PHYS,1
+Somalia,2018,MULT,1
+South Africa,2018,AGRI,1
+South Africa,2018,BIOC,1
+South Africa,2018,EART,2
+South Africa,2018,MEDI,3
+South Africa,2018,PHYS,2
+South Africa,2018,SOCI,3
+South Korea,2018,AGRI,3
+South Korea,2018,BIOC,7
+South Korea,2018,CENG,2
+South Korea,2018,CHEM,1
+South Korea,2018,COMP,1
+South Korea,2018,ENGI,20
+South Korea,2018,ENVI,2
+South Korea,2018,IMMU,1
+South Korea,2018,MATE,1
+South Korea,2018,MEDI,23
+South Korea,2018,MULT,1
+South Korea,2018,PHAR,1
+South Korea,2018,PHYS,130
+South Korea,2018,SOCI,1
+South Sudan,2018,ENVI,1
+Spain,2018,ARTS,1
+Spain,2018,BIOC,2
+Spain,2018,CHEM,1
+Spain,2018,EART,1
+Spain,2018,ENGI,19
+Spain,2018,ENVI,2
+Spain,2018,HEAL,1
+Spain,2018,MATE,1
+Spain,2018,MEDI,10
+Spain,2018,NEUR,1
+Spain,2018,PHYS,130
+Spain,2018,PSYC,1
+Spain,2018,SOCI,1
+Sri Lanka,2018,BIOC,1
+Sri Lanka,2018,ENGI,1
+Sri Lanka,2018,MEDI,1
+Sri Lanka,2018,NEUR,1
+Sri Lanka,2018,PHYS,99
+Sudan,2018,MULT,1
+Sweden,2018,AGRI,1
+Sweden,2018,BIOC,3
+Sweden,2018,DENT,2
+Sweden,2018,EART,1
+Sweden,2018,ENVI,1
+Sweden,2018,MATE,3
+Sweden,2018,MEDI,5
+Sweden,2018,MULT,3
+Sweden,2018,NEUR,2
+Sweden,2018,NURS,1
+Sweden,2018,PHYS,4
+Switzerland,2018,CENG,1
+Switzerland,2018,CHEM,1
+Switzerland,2018,DENT,1
+Switzerland,2018,EART,2
+Switzerland,2018,ENGI,21
+Switzerland,2018,ENVI,2
+Switzerland,2018,IMMU,1
+Switzerland,2018,MATE,1
+Switzerland,2018,MATH,1
+Switzerland,2018,MEDI,10
+Switzerland,2018,NEUR,1
+Switzerland,2018,PHYS,129
+Taiwan,2018,BIOC,3
+Taiwan,2018,CHEM,2
+Taiwan,2018,ENGI,20
+Taiwan,2018,MATE,1
+Taiwan,2018,MATH,1
+Taiwan,2018,MEDI,14
+Taiwan,2018,NEUR,1
+Taiwan,2018,PHAR,1
+Taiwan,2018,PHYS,131
+Taiwan,2018,SOCI,3
+Thailand,2018,AGRI,125
+Thailand,2018,ARTS,12
+Thailand,2018,BIOC,199
+Thailand,2018,BUSI,37
+Thailand,2018,CENG,93
+Thailand,2018,CHEM,175
+Thailand,2018,COMP,142
+Thailand,2018,DECI,3
+Thailand,2018,DENT,32
+Thailand,2018,EART,43
+Thailand,2018,ECON,13
+Thailand,2018,ENER,52
+Thailand,2018,ENGI,149
+Thailand,2018,ENVI,95
+Thailand,2018,HEAL,15
+Thailand,2018,IMMU,86
+Thailand,2018,MATE,163
+Thailand,2018,MATH,36
+Thailand,2018,MEDI,519
+Thailand,2018,MULT,66
+Thailand,2018,NEUR,48
+Thailand,2018,NURS,20
+Thailand,2018,PHAR,71
+Thailand,2018,PHYS,224
+Thailand,2018,PSYC,16
+Thailand,2018,SOCI,86
+Thailand,2018,VETE,24
+Tunisia,2018,ENVI,1
+Turkey,2018,ENGI,20
+Turkey,2018,HEAL,1
+Turkey,2018,MATE,1
+Turkey,2018,MEDI,1
+Turkey,2018,PHYS,127
+Uganda,2018,MEDI,4
+Ukraine,2018,ENGI,19
+Ukraine,2018,MEDI,1
+Ukraine,2018,PHYS,127
+United Arab Emirates,2018,BIOC,1
+United Arab Emirates,2018,EART,1
+United Arab Emirates,2018,HEAL,1
+United Arab Emirates,2018,PHYS,1
+United Kingdom,2018,AGRI,11
+United Kingdom,2018,ARTS,1
+United Kingdom,2018,BIOC,10
+United Kingdom,2018,CENG,3
+United Kingdom,2018,CHEM,3
+United Kingdom,2018,EART,2
+United Kingdom,2018,ECON,3
+United Kingdom,2018,ENGI,23
+United Kingdom,2018,ENVI,2
+United Kingdom,2018,HEAL,2
+United Kingdom,2018,IMMU,2
+United Kingdom,2018,MATE,1
+United Kingdom,2018,MATH,1
+United Kingdom,2018,MEDI,31
+United Kingdom,2018,MULT,4
+United Kingdom,2018,NEUR,14
+United Kingdom,2018,PHAR,8
+United Kingdom,2018,PHYS,140
+United Kingdom,2018,PSYC,7
+United Kingdom,2018,SOCI,5
+United Kingdom,2018,VETE,2
+United States,2018,AGRI,14
+United States,2018,BIOC,38
+United States,2018,BUSI,2
+United States,2018,CENG,10
+United States,2018,CHEM,12
+United States,2018,COMP,6
+United States,2018,DECI,1
+United States,2018,DENT,3
+United States,2018,EART,2
+United States,2018,ECON,3
+United States,2018,ENER,4
+United States,2018,ENGI,25
+United States,2018,ENVI,10
+United States,2018,HEAL,3
+United States,2018,IMMU,16
+United States,2018,MATE,4
+United States,2018,MATH,8
+United States,2018,MEDI,145
+United States,2018,MULT,7
+United States,2018,NEUR,7
+United States,2018,NURS,3
+United States,2018,PHAR,7
+United States,2018,PHYS,155
+United States,2018,PSYC,1
+United States,2018,SOCI,6
+United States,2018,VETE,3
+Uzbekistan,2018,PHYS,12
+Venezuela,2018,MEDI,1
+Viet Nam,2018,AGRI,1
+Viet Nam,2018,BIOC,4
+Viet Nam,2018,CHEM,3
+Viet Nam,2018,EART,1
+Viet Nam,2018,ENVI,3
+Viet Nam,2018,MATE,4
+Viet Nam,2018,MEDI,8
+Viet Nam,2018,MULT,1
+Viet Nam,2018,NURS,1
+Viet Nam,2018,PHAR,1
+Zambia,2018,MEDI,1
+Zimbabwe,2018,MEDI,1

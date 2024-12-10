@@ -1,0 +1,993 @@
+Country,Year,Subject Area,Number of Documents
+Algeria,2021,BIOC,1
+Algeria,2021,CHEM,2
+Algeria,2021,MATE,2
+Argentina,2021,BIOC,3
+Argentina,2021,CENG,1
+Argentina,2021,CHEM,3
+Argentina,2021,EART,1
+Argentina,2021,ENVI,2
+Argentina,2021,MEDI,6
+Argentina,2021,MULT,1
+Argentina,2021,NEUR,1
+Argentina,2021,PSYC,5
+Armenia,2021,CHEM,3
+Armenia,2021,ENGI,16
+Armenia,2021,MATE,1
+Armenia,2021,MEDI,3
+Armenia,2021,PHYS,63
+Australia,2021,AGRI,8
+Australia,2021,BIOC,19
+Australia,2021,BUSI,4
+Australia,2021,CENG,2
+Australia,2021,CHEM,6
+Australia,2021,COMP,1
+Australia,2021,DENT,2
+Australia,2021,EART,5
+Australia,2021,ECON,6
+Australia,2021,ENER,2
+Australia,2021,ENGI,17
+Australia,2021,ENVI,7
+Australia,2021,IMMU,6
+Australia,2021,MATH,3
+Australia,2021,MEDI,82
+Australia,2021,MULT,11
+Australia,2021,NEUR,7
+Australia,2021,NURS,1
+Australia,2021,PHAR,8
+Australia,2021,PHYS,60
+Australia,2021,PSYC,16
+Australia,2021,SOCI,8
+Australia,2021,VETE,1
+Austria,2021,AGRI,2
+Austria,2021,BIOC,6
+Austria,2021,CENG,2
+Austria,2021,CHEM,5
+Austria,2021,DENT,1
+Austria,2021,EART,2
+Austria,2021,ENGI,14
+Austria,2021,ENVI,1
+Austria,2021,IMMU,1
+Austria,2021,MATE,1
+Austria,2021,MEDI,9
+Austria,2021,NEUR,2
+Austria,2021,PHYS,59
+Austria,2021,PSYC,5
+Austria,2021,VETE,1
+Bahrain,2021,IMMU,1
+Bahrain,2021,MEDI,1
+Bangladesh,2021,BIOC,2
+Bangladesh,2021,COMP,1
+Bangladesh,2021,MEDI,9
+Bangladesh,2021,MULT,1
+Bangladesh,2021,PSYC,1
+Belarus,2021,BIOC,1
+Belarus,2021,ENGI,14
+Belarus,2021,PHYS,58
+Belgium,2021,AGRI,1
+Belgium,2021,ARTS,1
+Belgium,2021,BIOC,7
+Belgium,2021,DENT,1
+Belgium,2021,EART,1
+Belgium,2021,ENGI,17
+Belgium,2021,ENVI,3
+Belgium,2021,IMMU,1
+Belgium,2021,MATH,1
+Belgium,2021,MEDI,16
+Belgium,2021,MULT,1
+Belgium,2021,PHAR,1
+Belgium,2021,PHYS,70
+Belgium,2021,PSYC,2
+Bhutan,2021,IMMU,1
+Bhutan,2021,MEDI,2
+Bhutan,2021,SOCI,1
+Bolivia,2021,MEDI,1
+Bolivia,2021,PSYC,2
+Bolivia,2021,SOCI,1
+Bosnia and Herzegovina,2021,BIOC,1
+Bosnia and Herzegovina,2021,CHEM,2
+Bosnia and Herzegovina,2021,MEDI,2
+Bosnia and Herzegovina,2021,PSYC,1
+Botswana,2021,BIOC,1
+Botswana,2021,CHEM,2
+Botswana,2021,MEDI,3
+Brazil,2021,AGRI,2
+Brazil,2021,BIOC,9
+Brazil,2021,CENG,1
+Brazil,2021,CHEM,5
+Brazil,2021,COMP,1
+Brazil,2021,EART,1
+Brazil,2021,ENER,1
+Brazil,2021,ENGI,17
+Brazil,2021,IMMU,1
+Brazil,2021,MATH,1
+Brazil,2021,MEDI,37
+Brazil,2021,MULT,2
+Brazil,2021,NEUR,4
+Brazil,2021,NURS,1
+Brazil,2021,PHAR,1
+Brazil,2021,PHYS,63
+Brazil,2021,PSYC,10
+Brazil,2021,SOCI,7
+Brunei Darussalam,2021,MEDI,2
+Bulgaria,2021,BIOC,10
+Bulgaria,2021,CENG,1
+Bulgaria,2021,ENGI,14
+Bulgaria,2021,MEDI,14
+Bulgaria,2021,NEUR,5
+Bulgaria,2021,PHAR,7
+Bulgaria,2021,PHYS,58
+Bulgaria,2021,PSYC,11
+Burkina Faso,2021,MEDI,1
+Cambodia,2021,AGRI,2
+Cambodia,2021,CENG,1
+Cambodia,2021,COMP,1
+Cambodia,2021,EART,1
+Cambodia,2021,ENER,1
+Cambodia,2021,MEDI,4
+Cambodia,2021,MULT,2
+Cambodia,2021,PHAR,1
+Cambodia,2021,SOCI,1
+Cameroon,2021,MEDI,2
+Canada,2021,AGRI,4
+Canada,2021,BIOC,7
+Canada,2021,CENG,3
+Canada,2021,CHEM,6
+Canada,2021,EART,3
+Canada,2021,ENER,2
+Canada,2021,ENGI,1
+Canada,2021,ENVI,3
+Canada,2021,IMMU,2
+Canada,2021,MATE,1
+Canada,2021,MEDI,46
+Canada,2021,MULT,3
+Canada,2021,NEUR,6
+Canada,2021,NURS,2
+Canada,2021,PHAR,2
+Canada,2021,PHYS,3
+Canada,2021,PSYC,5
+Canada,2021,SOCI,2
+Chile,2021,AGRI,2
+Chile,2021,BIOC,3
+Chile,2021,CENG,1
+Chile,2021,CHEM,2
+Chile,2021,ENGI,2
+Chile,2021,ENVI,5
+Chile,2021,MEDI,16
+Chile,2021,NEUR,1
+Chile,2021,PHYS,8
+Chile,2021,PSYC,5
+China,2021,AGRI,12
+China,2021,ARTS,1
+China,2021,BIOC,20
+China,2021,BUSI,3
+China,2021,CENG,21
+China,2021,CHEM,18
+China,2021,COMP,2
+China,2021,EART,3
+China,2021,ECON,1
+China,2021,ENER,13
+China,2021,ENGI,23
+China,2021,ENVI,16
+China,2021,IMMU,5
+China,2021,MATE,19
+China,2021,MATH,1
+China,2021,MEDI,59
+China,2021,MULT,8
+China,2021,NEUR,1
+China,2021,NURS,5
+China,2021,PHAR,1
+China,2021,PHYS,80
+China,2021,PSYC,8
+China,2021,SOCI,5
+Colombia,2021,BIOC,2
+Colombia,2021,CHEM,2
+Colombia,2021,EART,3
+Colombia,2021,ENER,1
+Colombia,2021,ENGI,14
+Colombia,2021,ENVI,2
+Colombia,2021,MEDI,5
+Colombia,2021,PHYS,58
+Colombia,2021,PSYC,5
+Costa Rica,2021,EART,1
+Costa Rica,2021,IMMU,1
+Costa Rica,2021,PSYC,1
+Cote d'Ivoire,2021,CHEM,2
+Cote d'Ivoire,2021,IMMU,1
+Croatia,2021,BIOC,1
+Croatia,2021,ENGI,14
+Croatia,2021,MEDI,3
+Croatia,2021,NEUR,1
+Croatia,2021,PHYS,58
+Croatia,2021,PSYC,4
+Cyprus,2021,BIOC,1
+Cyprus,2021,ENGI,14
+Cyprus,2021,PHYS,58
+Cyprus,2021,PSYC,2
+Czech Republic,2021,AGRI,3
+Czech Republic,2021,BIOC,3
+Czech Republic,2021,CHEM,2
+Czech Republic,2021,EART,1
+Czech Republic,2021,ENGI,16
+Czech Republic,2021,IMMU,1
+Czech Republic,2021,MEDI,5
+Czech Republic,2021,NEUR,1
+Czech Republic,2021,PHYS,62
+Czech Republic,2021,PSYC,4
+Democratic Republic Congo,2021,IMMU,1
+Democratic Republic Congo,2021,MEDI,1
+Denmark,2021,BIOC,3
+Denmark,2021,CENG,4
+Denmark,2021,CHEM,1
+Denmark,2021,ENVI,3
+Denmark,2021,IMMU,1
+Denmark,2021,MEDI,10
+Denmark,2021,NEUR,1
+Denmark,2021,PHYS,2
+Denmark,2021,PSYC,6
+Denmark,2021,SOCI,1
+Ecuador,2021,CHEM,2
+Ecuador,2021,EART,1
+Ecuador,2021,ENGI,14
+Ecuador,2021,MEDI,1
+Ecuador,2021,NEUR,1
+Ecuador,2021,PHYS,58
+Ecuador,2021,PSYC,3
+Ecuador,2021,SOCI,1
+Egypt,2021,AGRI,5
+Egypt,2021,BIOC,2
+Egypt,2021,CHEM,1
+Egypt,2021,DENT,1
+Egypt,2021,ENGI,16
+Egypt,2021,ENVI,2
+Egypt,2021,IMMU,1
+Egypt,2021,MEDI,7
+Egypt,2021,PHAR,1
+Egypt,2021,PHYS,58
+Estonia,2021,BIOC,1
+Estonia,2021,CHEM,2
+Estonia,2021,ENGI,14
+Estonia,2021,PHYS,58
+Estonia,2021,PSYC,2
+Ethiopia,2021,MEDI,1
+Fiji,2021,MATH,1
+Finland,2021,AGRI,2
+Finland,2021,BIOC,2
+Finland,2021,CHEM,2
+Finland,2021,EART,1
+Finland,2021,ENGI,16
+Finland,2021,ENVI,3
+Finland,2021,MEDI,1
+Finland,2021,NEUR,1
+Finland,2021,PHYS,63
+Finland,2021,PSYC,3
+Finland,2021,SOCI,1
+France,2021,AGRI,7
+France,2021,BIOC,7
+France,2021,BUSI,1
+France,2021,CENG,3
+France,2021,CHEM,3
+France,2021,COMP,1
+France,2021,DENT,1
+France,2021,EART,5
+France,2021,ECON,2
+France,2021,ENER,1
+France,2021,ENGI,18
+France,2021,ENVI,3
+France,2021,IMMU,1
+France,2021,MATE,2
+France,2021,MATH,2
+France,2021,MEDI,37
+France,2021,MULT,5
+France,2021,PHAR,1
+France,2021,PHYS,67
+France,2021,PSYC,6
+France,2021,SOCI,1
+France,2021,VETE,1
+Gambia,2021,IMMU,1
+Gambia,2021,MEDI,1
+Georgia,2021,BIOC,1
+Georgia,2021,ENGI,14
+Georgia,2021,MEDI,6
+Georgia,2021,PHYS,56
+Georgia,2021,PSYC,2
+Germany,2021,AGRI,9
+Germany,2021,ARTS,1
+Germany,2021,BIOC,12
+Germany,2021,CENG,2
+Germany,2021,CHEM,7
+Germany,2021,DENT,1
+Germany,2021,EART,3
+Germany,2021,ENER,1
+Germany,2021,ENGI,16
+Germany,2021,ENVI,5
+Germany,2021,IMMU,1
+Germany,2021,MATE,2
+Germany,2021,MEDI,42
+Germany,2021,MULT,7
+Germany,2021,NEUR,5
+Germany,2021,NURS,1
+Germany,2021,PHAR,2
+Germany,2021,PHYS,71
+Germany,2021,PSYC,6
+Germany,2021,SOCI,1
+Ghana,2021,BIOC,1
+Ghana,2021,CHEM,3
+Ghana,2021,MATH,1
+Ghana,2021,MEDI,3
+Greece,2021,BIOC,4
+Greece,2021,CHEM,2
+Greece,2021,ENGI,15
+Greece,2021,MEDI,5
+Greece,2021,PHYS,58
+Greece,2021,PSYC,4
+Haiti,2021,MEDI,4
+Honduras,2021,MEDI,1
+Hong Kong,2021,AGRI,2
+Hong Kong,2021,BIOC,4
+Hong Kong,2021,COMP,1
+Hong Kong,2021,DENT,2
+Hong Kong,2021,ENER,1
+Hong Kong,2021,ENVI,2
+Hong Kong,2021,IMMU,2
+Hong Kong,2021,MATH,1
+Hong Kong,2021,MEDI,29
+Hong Kong,2021,NURS,2
+Hong Kong,2021,PHYS,2
+Hong Kong,2021,PSYC,3
+Hong Kong,2021,VETE,1
+Hungary,2021,AGRI,1
+Hungary,2021,BIOC,4
+Hungary,2021,CHEM,3
+Hungary,2021,EART,1
+Hungary,2021,ENGI,14
+Hungary,2021,MEDI,3
+Hungary,2021,PHYS,58
+Hungary,2021,PSYC,7
+Iceland,2021,BIOC,2
+Iceland,2021,CHEM,2
+Iceland,2021,MEDI,1
+Iceland,2021,PHAR,2
+India,2021,AGRI,8
+India,2021,ARTS,1
+India,2021,BIOC,18
+India,2021,CENG,24
+India,2021,CHEM,14
+India,2021,COMP,3
+India,2021,DENT,1
+India,2021,ENER,8
+India,2021,ENGI,19
+India,2021,ENVI,15
+India,2021,IMMU,4
+India,2021,MATE,6
+India,2021,MATH,2
+India,2021,MEDI,45
+India,2021,MULT,9
+India,2021,NEUR,2
+India,2021,NURS,1
+India,2021,PHAR,2
+India,2021,PHYS,64
+India,2021,PSYC,5
+India,2021,SOCI,2
+Indonesia,2021,AGRI,6
+Indonesia,2021,BIOC,4
+Indonesia,2021,CENG,2
+Indonesia,2021,CHEM,7
+Indonesia,2021,COMP,4
+Indonesia,2021,DENT,1
+Indonesia,2021,EART,2
+Indonesia,2021,ENER,3
+Indonesia,2021,ENGI,3
+Indonesia,2021,ENVI,6
+Indonesia,2021,HEAL,2
+Indonesia,2021,IMMU,1
+Indonesia,2021,MATE,2
+Indonesia,2021,MATH,1
+Indonesia,2021,MEDI,20
+Indonesia,2021,MULT,7
+Indonesia,2021,NEUR,2
+Indonesia,2021,NURS,6
+Indonesia,2021,PHAR,2
+Indonesia,2021,PHYS,2
+Indonesia,2021,PSYC,1
+Indonesia,2021,SOCI,4
+Indonesia,2021,VETE,2
+Iran,2021,AGRI,1
+Iran,2021,BIOC,1
+Iran,2021,CHEM,3
+Iran,2021,COMP,1
+Iran,2021,ENGI,16
+Iran,2021,ENVI,2
+Iran,2021,MEDI,10
+Iran,2021,MULT,4
+Iran,2021,NEUR,1
+Iran,2021,PHAR,1
+Iran,2021,PHYS,59
+Iran,2021,PSYC,3
+Iran,2021,VETE,1
+Iraq,2021,BIOC,5
+Iraq,2021,CENG,1
+Iraq,2021,ENER,1
+Iraq,2021,MEDI,5
+Iraq,2021,MULT,2
+Iraq,2021,PHAR,1
+Iraq,2021,PSYC,2
+Ireland,2021,BIOC,1
+Ireland,2021,CHEM,2
+Ireland,2021,DENT,2
+Ireland,2021,ENGI,14
+Ireland,2021,ENVI,2
+Ireland,2021,MEDI,2
+Ireland,2021,PHYS,59
+Ireland,2021,PSYC,1
+Israel,2021,BIOC,1
+Israel,2021,CHEM,2
+Israel,2021,EART,1
+Israel,2021,ENVI,1
+Israel,2021,MATH,1
+Israel,2021,MEDI,3
+Israel,2021,MULT,1
+Israel,2021,PHYS,1
+Israel,2021,PSYC,7
+Italy,2021,AGRI,3
+Italy,2021,BIOC,8
+Italy,2021,CHEM,3
+Italy,2021,EART,1
+Italy,2021,ENGI,18
+Italy,2021,ENVI,1
+Italy,2021,IMMU,1
+Italy,2021,MEDI,34
+Italy,2021,MULT,1
+Italy,2021,NEUR,6
+Italy,2021,NURS,1
+Italy,2021,PHAR,2
+Italy,2021,PHYS,68
+Italy,2021,PSYC,5
+Jamaica,2021,MEDI,3
+Japan,2021,AGRI,19
+Japan,2021,ARTS,2
+Japan,2021,BIOC,17
+Japan,2021,CENG,24
+Japan,2021,CHEM,34
+Japan,2021,COMP,14
+Japan,2021,DECI,2
+Japan,2021,DENT,3
+Japan,2021,EART,5
+Japan,2021,ENER,8
+Japan,2021,ENGI,18
+Japan,2021,ENVI,22
+Japan,2021,IMMU,16
+Japan,2021,MATE,22
+Japan,2021,MATH,6
+Japan,2021,MEDI,63
+Japan,2021,MULT,25
+Japan,2021,NEUR,3
+Japan,2021,NURS,1
+Japan,2021,PHAR,5
+Japan,2021,PHYS,13
+Japan,2021,PSYC,4
+Japan,2021,SOCI,9
+Japan,2021,VETE,3
+Jordan,2021,MEDI,5
+Jordan,2021,PSYC,2
+Kazakhstan,2021,AGRI,1
+Kazakhstan,2021,CHEM,2
+Kazakhstan,2021,ENGI,3
+Kazakhstan,2021,PHYS,1
+Kenya,2021,CHEM,2
+Kenya,2021,IMMU,2
+Kenya,2021,MEDI,2
+Kenya,2021,PSYC,4
+Kuwait,2021,ENGI,8
+Kuwait,2021,PHYS,41
+Laos,2021,IMMU,1
+Laos,2021,PHAR,1
+Latvia,2021,CHEM,2
+Latvia,2021,ENGI,16
+Latvia,2021,PHYS,61
+Latvia,2021,PSYC,2
+Lebanon,2021,ENGI,1
+Lebanon,2021,MEDI,2
+Lebanon,2021,PHYS,1
+Lithuania,2021,ENGI,14
+Lithuania,2021,MEDI,1
+Lithuania,2021,PHYS,58
+Lithuania,2021,PSYC,2
+Luxembourg,2021,BIOC,1
+Luxembourg,2021,COMP,1
+Macao,2021,BIOC,2
+Malawi,2021,BIOC,1
+Malawi,2021,MEDI,3
+Malaysia,2021,AGRI,9
+Malaysia,2021,BIOC,10
+Malaysia,2021,CENG,5
+Malaysia,2021,CHEM,17
+Malaysia,2021,DENT,1
+Malaysia,2021,EART,1
+Malaysia,2021,ENER,3
+Malaysia,2021,ENGI,16
+Malaysia,2021,ENVI,7
+Malaysia,2021,MATE,6
+Malaysia,2021,MATH,1
+Malaysia,2021,MEDI,43
+Malaysia,2021,MULT,8
+Malaysia,2021,NEUR,2
+Malaysia,2021,NURS,1
+Malaysia,2021,PHYS,60
+Malaysia,2021,PSYC,5
+Malaysia,2021,VETE,1
+Mali,2021,MEDI,1
+Malta,2021,BIOC,1
+Malta,2021,MEDI,1
+Mexico,2021,AGRI,3
+Mexico,2021,BIOC,5
+Mexico,2021,CHEM,2
+Mexico,2021,COMP,1
+Mexico,2021,EART,1
+Mexico,2021,ENER,1
+Mexico,2021,ENGI,14
+Mexico,2021,ENVI,1
+Mexico,2021,MEDI,8
+Mexico,2021,MULT,2
+Mexico,2021,NEUR,3
+Mexico,2021,PHYS,68
+Mexico,2021,PSYC,4
+Mexico,2021,SOCI,7
+Moldova,2021,MEDI,1
+Mongolia,2021,MEDI,2
+Montenegro,2021,ENGI,13
+Montenegro,2021,PHYS,57
+Morocco,2021,MEDI,5
+Morocco,2021,PHYS,2
+Morocco,2021,PSYC,2
+Mozambique,2021,CHEM,2
+Mozambique,2021,MEDI,2
+Myanmar,2021,AGRI,3
+Myanmar,2021,BIOC,1
+Myanmar,2021,BUSI,1
+Myanmar,2021,CHEM,2
+Myanmar,2021,ENVI,1
+Myanmar,2021,IMMU,2
+Myanmar,2021,MEDI,6
+Myanmar,2021,MULT,2
+Myanmar,2021,NURS,1
+Myanmar,2021,PHAR,1
+Myanmar,2021,VETE,1
+Namibia,2021,PHYS,1
+Nepal,2021,BIOC,1
+Nepal,2021,MEDI,4
+Netherlands,2021,AGRI,2
+Netherlands,2021,BIOC,7
+Netherlands,2021,BUSI,2
+Netherlands,2021,CENG,1
+Netherlands,2021,CHEM,3
+Netherlands,2021,COMP,2
+Netherlands,2021,EART,2
+Netherlands,2021,ENER,1
+Netherlands,2021,ENVI,2
+Netherlands,2021,HEAL,1
+Netherlands,2021,IMMU,4
+Netherlands,2021,MEDI,37
+Netherlands,2021,MULT,5
+Netherlands,2021,NEUR,3
+Netherlands,2021,PHYS,4
+Netherlands,2021,PSYC,6
+New Zealand,2021,AGRI,3
+New Zealand,2021,ARTS,1
+New Zealand,2021,BIOC,2
+New Zealand,2021,CENG,1
+New Zealand,2021,EART,1
+New Zealand,2021,ENGI,15
+New Zealand,2021,MATE,1
+New Zealand,2021,MATH,1
+New Zealand,2021,MEDI,8
+New Zealand,2021,NEUR,1
+New Zealand,2021,PHYS,59
+New Zealand,2021,PSYC,5
+New Zealand,2021,SOCI,2
+Nicaragua,2021,MEDI,1
+Nigeria,2021,BIOC,1
+Nigeria,2021,CENG,1
+Nigeria,2021,CHEM,3
+Nigeria,2021,ENVI,1
+Nigeria,2021,IMMU,1
+Nigeria,2021,MEDI,6
+Nigeria,2021,PSYC,5
+Nigeria,2021,SOCI,1
+Nigeria,2021,VETE,1
+North Macedonia,2021,MEDI,2
+North Macedonia,2021,PSYC,2
+Norway,2021,BIOC,1
+Norway,2021,CENG,1
+Norway,2021,ECON,1
+Norway,2021,ENER,1
+Norway,2021,ENGI,1
+Norway,2021,MEDI,4
+Norway,2021,MULT,1
+Norway,2021,PHAR,1
+Norway,2021,PSYC,6
+Norway,2021,SOCI,1
+Oman,2021,MEDI,1
+Oman,2021,PHYS,2
+Pakistan,2021,BIOC,3
+Pakistan,2021,CENG,1
+Pakistan,2021,CHEM,4
+Pakistan,2021,COMP,3
+Pakistan,2021,EART,1
+Pakistan,2021,ENGI,20
+Pakistan,2021,ENVI,1
+Pakistan,2021,IMMU,1
+Pakistan,2021,MATE,2
+Pakistan,2021,MATH,1
+Pakistan,2021,MEDI,14
+Pakistan,2021,MULT,3
+Pakistan,2021,PHYS,62
+Pakistan,2021,PSYC,4
+Pakistan,2021,SOCI,1
+Palestine,2021,BIOC,1
+Palestine,2021,COMP,1
+Palestine,2021,PSYC,2
+Panama,2021,AGRI,1
+Panama,2021,MEDI,2
+Papua New Guinea,2021,AGRI,1
+Papua New Guinea,2021,MEDI,1
+Peru,2021,AGRI,1
+Peru,2021,CHEM,2
+Peru,2021,ENGI,1
+Peru,2021,IMMU,1
+Peru,2021,MEDI,4
+Peru,2021,PSYC,4
+Philippines,2021,AGRI,1
+Philippines,2021,ARTS,1
+Philippines,2021,BIOC,2
+Philippines,2021,CENG,1
+Philippines,2021,DENT,1
+Philippines,2021,EART,1
+Philippines,2021,ENER,2
+Philippines,2021,ENVI,1
+Philippines,2021,MATE,1
+Philippines,2021,MATH,1
+Philippines,2021,MEDI,23
+Philippines,2021,MULT,5
+Philippines,2021,NEUR,2
+Philippines,2021,PHAR,1
+Philippines,2021,PSYC,4
+Philippines,2021,VETE,2
+Poland,2021,AGRI,1
+Poland,2021,BIOC,2
+Poland,2021,CHEM,2
+Poland,2021,ENGI,14
+Poland,2021,ENVI,2
+Poland,2021,MEDI,7
+Poland,2021,NEUR,1
+Poland,2021,PHAR,3
+Poland,2021,PHYS,68
+Poland,2021,PSYC,5
+Portugal,2021,BIOC,1
+Portugal,2021,CHEM,2
+Portugal,2021,DENT,1
+Portugal,2021,EART,1
+Portugal,2021,ENGI,15
+Portugal,2021,ENVI,1
+Portugal,2021,MEDI,3
+Portugal,2021,MULT,2
+Portugal,2021,NEUR,1
+Portugal,2021,PHYS,61
+Portugal,2021,PSYC,7
+Puerto Rico,2021,ENGI,14
+Puerto Rico,2021,MEDI,1
+Puerto Rico,2021,PHYS,58
+Qatar,2021,BIOC,1
+Qatar,2021,ENGI,13
+Qatar,2021,ENVI,1
+Qatar,2021,MEDI,1
+Qatar,2021,PHYS,55
+Romania,2021,BIOC,1
+Romania,2021,ENER,1
+Romania,2021,ENVI,1
+Romania,2021,MULT,1
+Romania,2021,NEUR,2
+Romania,2021,PHAR,1
+Romania,2021,PSYC,5
+Russian Federation,2021,AGRI,3
+Russian Federation,2021,BIOC,3
+Russian Federation,2021,CENG,4
+Russian Federation,2021,CHEM,2
+Russian Federation,2021,EART,1
+Russian Federation,2021,ENGI,17
+Russian Federation,2021,MEDI,17
+Russian Federation,2021,NEUR,1
+Russian Federation,2021,PHYS,67
+Russian Federation,2021,PSYC,5
+Rwanda,2021,MEDI,2
+Saudi Arabia,2021,AGRI,2
+Saudi Arabia,2021,BIOC,8
+Saudi Arabia,2021,CENG,4
+Saudi Arabia,2021,CHEM,3
+Saudi Arabia,2021,ENGI,3
+Saudi Arabia,2021,ENVI,6
+Saudi Arabia,2021,IMMU,1
+Saudi Arabia,2021,MATE,1
+Saudi Arabia,2021,MATH,3
+Saudi Arabia,2021,MEDI,9
+Saudi Arabia,2021,MULT,3
+Saudi Arabia,2021,NEUR,1
+Saudi Arabia,2021,NURS,2
+Senegal,2021,MEDI,3
+Senegal,2021,PSYC,2
+Serbia,2021,BIOC,2
+Serbia,2021,ENGI,14
+Serbia,2021,MEDI,2
+Serbia,2021,PHYS,58
+Serbia,2021,PSYC,5
+Serbia,2021,VETE,1
+Sierra Leone,2021,MEDI,1
+Singapore,2021,AGRI,4
+Singapore,2021,BIOC,5
+Singapore,2021,BUSI,2
+Singapore,2021,CENG,5
+Singapore,2021,CHEM,4
+Singapore,2021,DENT,1
+Singapore,2021,EART,1
+Singapore,2021,ECON,1
+Singapore,2021,ENER,1
+Singapore,2021,ENVI,5
+Singapore,2021,IMMU,1
+Singapore,2021,MATE,1
+Singapore,2021,MATH,1
+Singapore,2021,MEDI,49
+Singapore,2021,MULT,6
+Singapore,2021,NURS,1
+Singapore,2021,PHYS,1
+Singapore,2021,PSYC,4
+Singapore,2021,SOCI,2
+Slovakia,2021,BIOC,1
+Slovakia,2021,CHEM,2
+Slovakia,2021,ENGI,2
+Slovakia,2021,MATE,1
+Slovakia,2021,PHYS,4
+Slovakia,2021,PSYC,5
+Slovenia,2021,AGRI,1
+Slovenia,2021,BIOC,1
+Slovenia,2021,MEDI,3
+Slovenia,2021,NEUR,2
+Slovenia,2021,PSYC,3
+South Africa,2021,BIOC,3
+South Africa,2021,CHEM,1
+South Africa,2021,EART,3
+South Africa,2021,ENGI,1
+South Africa,2021,ENVI,1
+South Africa,2021,IMMU,3
+South Africa,2021,MEDI,21
+South Africa,2021,PHYS,9
+South Africa,2021,PSYC,3
+South Africa,2021,SOCI,4
+South Korea,2021,AGRI,3
+South Korea,2021,BIOC,9
+South Korea,2021,CENG,11
+South Korea,2021,CHEM,6
+South Korea,2021,DENT,1
+South Korea,2021,EART,1
+South Korea,2021,ENER,2
+South Korea,2021,ENGI,16
+South Korea,2021,ENVI,1
+South Korea,2021,MATE,1
+South Korea,2021,MEDI,47
+South Korea,2021,NEUR,2
+South Korea,2021,PHYS,68
+South Korea,2021,PSYC,4
+Spain,2021,BIOC,7
+Spain,2021,CHEM,2
+Spain,2021,DENT,1
+Spain,2021,EART,1
+Spain,2021,ECON,1
+Spain,2021,ENGI,14
+Spain,2021,IMMU,1
+Spain,2021,MEDI,30
+Spain,2021,MULT,1
+Spain,2021,NEUR,3
+Spain,2021,NURS,1
+Spain,2021,PHYS,71
+Spain,2021,PSYC,5
+Spain,2021,VETE,1
+Sri Lanka,2021,CHEM,2
+Sri Lanka,2021,ENGI,14
+Sri Lanka,2021,ENVI,2
+Sri Lanka,2021,MEDI,3
+Sri Lanka,2021,MULT,1
+Sri Lanka,2021,PHYS,58
+Sudan,2021,MEDI,6
+Sweden,2021,AGRI,2
+Sweden,2021,BIOC,3
+Sweden,2021,BUSI,1
+Sweden,2021,CENG,2
+Sweden,2021,CHEM,5
+Sweden,2021,COMP,3
+Sweden,2021,DENT,7
+Sweden,2021,EART,1
+Sweden,2021,ECON,1
+Sweden,2021,ENER,1
+Sweden,2021,ENVI,8
+Sweden,2021,IMMU,1
+Sweden,2021,MATE,4
+Sweden,2021,MEDI,10
+Sweden,2021,MULT,4
+Sweden,2021,NEUR,3
+Sweden,2021,PHYS,6
+Sweden,2021,PSYC,5
+Sweden,2021,SOCI,2
+Switzerland,2021,BIOC,3
+Switzerland,2021,CENG,1
+Switzerland,2021,COMP,1
+Switzerland,2021,DENT,1
+Switzerland,2021,EART,1
+Switzerland,2021,ENGI,15
+Switzerland,2021,ENVI,3
+Switzerland,2021,IMMU,5
+Switzerland,2021,MATE,1
+Switzerland,2021,MEDI,27
+Switzerland,2021,MULT,2
+Switzerland,2021,NEUR,1
+Switzerland,2021,PHAR,1
+Switzerland,2021,PHYS,62
+Switzerland,2021,PSYC,4
+Switzerland,2021,SOCI,1
+Taiwan,2021,AGRI,2
+Taiwan,2021,ARTS,1
+Taiwan,2021,BIOC,9
+Taiwan,2021,BUSI,1
+Taiwan,2021,CENG,6
+Taiwan,2021,CHEM,6
+Taiwan,2021,COMP,6
+Taiwan,2021,DENT,1
+Taiwan,2021,EART,3
+Taiwan,2021,ENER,7
+Taiwan,2021,ENGI,17
+Taiwan,2021,ENVI,10
+Taiwan,2021,HEAL,2
+Taiwan,2021,IMMU,1
+Taiwan,2021,MATE,10
+Taiwan,2021,MATH,1
+Taiwan,2021,MEDI,41
+Taiwan,2021,PHAR,4
+Taiwan,2021,PHYS,63
+Taiwan,2021,PSYC,7
+Taiwan,2021,SOCI,5
+Thailand,2021,AGRI,199
+Thailand,2021,ARTS,46
+Thailand,2021,BIOC,229
+Thailand,2021,BUSI,49
+Thailand,2021,CENG,170
+Thailand,2021,CHEM,238
+Thailand,2021,COMP,164
+Thailand,2021,DECI,6
+Thailand,2021,DENT,47
+Thailand,2021,EART,46
+Thailand,2021,ECON,27
+Thailand,2021,ENER,98
+Thailand,2021,ENGI,179
+Thailand,2021,ENVI,161
+Thailand,2021,HEAL,28
+Thailand,2021,IMMU,109
+Thailand,2021,MATE,161
+Thailand,2021,MATH,39
+Thailand,2021,MEDI,824
+Thailand,2021,MULT,237
+Thailand,2021,NEUR,47
+Thailand,2021,NURS,27
+Thailand,2021,PHAR,73
+Thailand,2021,PHYS,163
+Thailand,2021,PSYC,30
+Thailand,2021,SOCI,147
+Thailand,2021,VETE,71
+Trinidad and Tobago,2021,CHEM,2
+Tunisia,2021,BIOC,1
+Tunisia,2021,MATH,1
+Tunisia,2021,MEDI,2
+Turkey,2021,BIOC,4
+Turkey,2021,BUSI,1
+Turkey,2021,CHEM,3
+Turkey,2021,ECON,1
+Turkey,2021,ENGI,15
+Turkey,2021,IMMU,1
+Turkey,2021,MATH,1
+Turkey,2021,MEDI,15
+Turkey,2021,PHYS,58
+Turkey,2021,PSYC,5
+Uganda,2021,BIOC,2
+Uganda,2021,IMMU,1
+Uganda,2021,MEDI,2
+Uganda,2021,MULT,2
+Ukraine,2021,BIOC,1
+Ukraine,2021,CHEM,2
+Ukraine,2021,ENGI,14
+Ukraine,2021,MEDI,3
+Ukraine,2021,PHYS,58
+Ukraine,2021,PSYC,1
+United Arab Emirates,2021,BIOC,1
+United Arab Emirates,2021,CENG,1
+United Arab Emirates,2021,CHEM,2
+United Arab Emirates,2021,ECON,1
+United Arab Emirates,2021,ENVI,1
+United Arab Emirates,2021,MATE,1
+United Arab Emirates,2021,MATH,1
+United Arab Emirates,2021,MEDI,6
+United Arab Emirates,2021,PHAR,1
+United Arab Emirates,2021,PSYC,3
+United Kingdom,2021,AGRI,9
+United Kingdom,2021,ARTS,1
+United Kingdom,2021,BIOC,18
+United Kingdom,2021,BUSI,2
+United Kingdom,2021,CENG,3
+United Kingdom,2021,CHEM,9
+United Kingdom,2021,COMP,4
+United Kingdom,2021,DENT,2
+United Kingdom,2021,EART,3
+United Kingdom,2021,ECON,3
+United Kingdom,2021,ENER,3
+United Kingdom,2021,ENGI,15
+United Kingdom,2021,ENVI,10
+United Kingdom,2021,HEAL,1
+United Kingdom,2021,IMMU,10
+United Kingdom,2021,MATE,3
+United Kingdom,2021,MATH,4
+United Kingdom,2021,MEDI,73
+United Kingdom,2021,MULT,8
+United Kingdom,2021,NEUR,9
+United Kingdom,2021,PHAR,5
+United Kingdom,2021,PHYS,73
+United Kingdom,2021,PSYC,9
+United Kingdom,2021,SOCI,5
+United Kingdom,2021,VETE,3
+United States,2021,AGRI,31
+United States,2021,ARTS,2
+United States,2021,BIOC,30
+United States,2021,BUSI,6
+United States,2021,CENG,17
+United States,2021,CHEM,14
+United States,2021,COMP,7
+United States,2021,DENT,1
+United States,2021,EART,4
+United States,2021,ECON,10
+United States,2021,ENER,11
+United States,2021,ENGI,23
+United States,2021,ENVI,19
+United States,2021,HEAL,5
+United States,2021,IMMU,17
+United States,2021,MATE,10
+United States,2021,MATH,7
+United States,2021,MEDI,209
+United States,2021,MULT,34
+United States,2021,NEUR,10
+United States,2021,NURS,5
+United States,2021,PHAR,8
+United States,2021,PHYS,83
+United States,2021,PSYC,7
+United States,2021,SOCI,16
+United States,2021,VETE,5
+Uruguay,2021,BIOC,1
+Uruguay,2021,MEDI,4
+Uzbekistan,2021,ENGI,5
+Uzbekistan,2021,PHYS,28
+Venezuela,2021,DENT,1
+Viet Nam,2021,AGRI,9
+Viet Nam,2021,BIOC,5
+Viet Nam,2021,CENG,13
+Viet Nam,2021,CHEM,9
+Viet Nam,2021,COMP,3
+Viet Nam,2021,DENT,1
+Viet Nam,2021,EART,3
+Viet Nam,2021,ENER,6
+Viet Nam,2021,ENGI,15
+Viet Nam,2021,ENVI,11
+Viet Nam,2021,MATE,2
+Viet Nam,2021,MATH,2
+Viet Nam,2021,MEDI,27
+Viet Nam,2021,MULT,2
+Viet Nam,2021,NURS,1
+Viet Nam,2021,PHAR,1
+Viet Nam,2021,PHYS,1
+Viet Nam,2021,PSYC,1
+Viet Nam,2021,VETE,2
+Yemen,2021,MEDI,1
+Zimbabwe,2021,MEDI,5

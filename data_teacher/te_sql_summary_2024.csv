@@ -1,0 +1,1111 @@
+Country,Year,Subject Area,Number of Documents
+Albania,2024,ECON,3
+Algeria,2024,CENG,1
+Algeria,2024,CHEM,1
+Algeria,2024,ENER,1
+Algeria,2024,ENGI,1
+Algeria,2024,MATE,1
+Algeria,2024,PHYS,1
+Argentina,2024,ARTS,1
+Argentina,2024,BIOC,1
+Argentina,2024,EART,3
+Argentina,2024,MULT,1
+Argentina,2024,NEUR,1
+Argentina,2024,PHAR,1
+Argentina,2024,PSYC,1
+Argentina,2024,SOCI,1
+Argentina,2024,VETE,3
+Armenia,2024,MATE,1
+Armenia,2024,PHYS,1
+Australia,2024,AGRI,2
+Australia,2024,ARTS,21
+Australia,2024,BIOC,6
+Australia,2024,BUSI,10
+Australia,2024,CENG,6
+Australia,2024,CHEM,3
+Australia,2024,COMP,9
+Australia,2024,DECI,2
+Australia,2024,DENT,5
+Australia,2024,EART,8
+Australia,2024,ECON,4
+Australia,2024,ENER,4
+Australia,2024,ENGI,5
+Australia,2024,ENVI,3
+Australia,2024,HEAL,15
+Australia,2024,IMMU,1
+Australia,2024,MATE,4
+Australia,2024,MATH,4
+Australia,2024,MEDI,18
+Australia,2024,MULT,4
+Australia,2024,NEUR,2
+Australia,2024,NURS,9
+Australia,2024,PHAR,1
+Australia,2024,PHYS,2
+Australia,2024,PSYC,3
+Australia,2024,SOCI,30
+Australia,2024,VETE,9
+Austria,2024,BIOC,5
+Austria,2024,CENG,2
+Austria,2024,COMP,2
+Austria,2024,EART,2
+Austria,2024,ENER,1
+Austria,2024,ENGI,1
+Austria,2024,ENVI,1
+Austria,2024,HEAL,1
+Austria,2024,MATE,1
+Austria,2024,NEUR,2
+Austria,2024,NURS,4
+Austria,2024,PHAR,3
+Austria,2024,PHYS,3
+Austria,2024,PSYC,2
+Bahrain,2024,ECON,1
+Bangladesh,2024,BUSI,3
+Bangladesh,2024,COMP,3
+Bangladesh,2024,DECI,1
+Bangladesh,2024,HEAL,1
+Bangladesh,2024,IMMU,2
+Bangladesh,2024,MEDI,1
+Bangladesh,2024,MULT,6
+Bangladesh,2024,PHAR,1
+Bangladesh,2024,PHYS,1
+Bangladesh,2024,PSYC,2
+Bangladesh,2024,SOCI,3
+Belarus,2024,ECON,1
+Belgium,2024,CHEM,1
+Belgium,2024,DECI,2
+Belgium,2024,DENT,1
+Belgium,2024,HEAL,1
+Belgium,2024,MATH,1
+Belgium,2024,MULT,1
+Belgium,2024,NEUR,3
+Belgium,2024,NURS,2
+Belgium,2024,PHAR,2
+Belgium,2024,PSYC,1
+Belgium,2024,VETE,2
+Benin,2024,EART,1
+Benin,2024,MULT,1
+Bhutan,2024,DENT,1
+Bolivia,2024,EART,1
+Brazil,2024,AGRI,3
+Brazil,2024,ARTS,2
+Brazil,2024,BIOC,2
+Brazil,2024,BUSI,2
+Brazil,2024,CENG,1
+Brazil,2024,COMP,4
+Brazil,2024,DECI,2
+Brazil,2024,DENT,15
+Brazil,2024,EART,11
+Brazil,2024,ECON,3
+Brazil,2024,ENER,1
+Brazil,2024,ENGI,1
+Brazil,2024,ENVI,3
+Brazil,2024,HEAL,10
+Brazil,2024,MATE,2
+Brazil,2024,MATH,2
+Brazil,2024,MEDI,3
+Brazil,2024,MULT,6
+Brazil,2024,NEUR,2
+Brazil,2024,NURS,5
+Brazil,2024,PHAR,1
+Brazil,2024,PHYS,3
+Brazil,2024,PSYC,1
+Brazil,2024,SOCI,5
+Brazil,2024,VETE,16
+Burkina Faso,2024,BIOC,1
+Burkina Faso,2024,VETE,1
+Cambodia,2024,DENT,1
+Cameroon,2024,BUSI,1
+Cameroon,2024,NURS,1
+Canada,2024,AGRI,2
+Canada,2024,ARTS,6
+Canada,2024,BIOC,5
+Canada,2024,BUSI,6
+Canada,2024,CENG,3
+Canada,2024,CHEM,2
+Canada,2024,COMP,9
+Canada,2024,DECI,6
+Canada,2024,DENT,3
+Canada,2024,EART,7
+Canada,2024,ECON,3
+Canada,2024,ENER,3
+Canada,2024,ENGI,3
+Canada,2024,ENVI,3
+Canada,2024,HEAL,16
+Canada,2024,MATE,1
+Canada,2024,MATH,3
+Canada,2024,MEDI,2
+Canada,2024,MULT,8
+Canada,2024,NEUR,11
+Canada,2024,NURS,11
+Canada,2024,PHYS,5
+Canada,2024,PSYC,10
+Canada,2024,SOCI,6
+Canada,2024,VETE,8
+Chile,2024,AGRI,1
+Chile,2024,BIOC,1
+Chile,2024,CENG,1
+Chile,2024,COMP,1
+Chile,2024,DECI,1
+Chile,2024,EART,3
+Chile,2024,ECON,4
+Chile,2024,ENVI,1
+Chile,2024,HEAL,2
+Chile,2024,MATE,1
+Chile,2024,MEDI,1
+Chile,2024,MULT,2
+Chile,2024,NURS,2
+Chile,2024,PHYS,1
+Chile,2024,PSYC,1
+Chile,2024,VETE,2
+China,2024,AGRI,186
+China,2024,BIOC,73
+China,2024,BUSI,91
+China,2024,CENG,183
+China,2024,CHEM,210
+China,2024,COMP,113
+China,2024,DECI,192
+China,2024,DENT,62
+China,2024,EART,97
+China,2024,ECON,37
+China,2024,ENER,207
+China,2024,ENGI,200
+China,2024,ENVI,190
+China,2024,HEAL,29
+China,2024,IMMU,258
+China,2024,MATE,202
+China,2024,MATH,191
+China,2024,MEDI,140
+China,2024,MULT,92
+China,2024,NEUR,117
+China,2024,NURS,35
+China,2024,PHAR,187
+China,2024,PHYS,176
+China,2024,PSYC,63
+China,2024,VETE,53
+Colombia,2024,CENG,1
+Colombia,2024,COMP,1
+Colombia,2024,ENER,1
+Colombia,2024,ENGI,1
+Colombia,2024,ENVI,1
+Colombia,2024,MATH,1
+Colombia,2024,NURS,1
+Colombia,2024,PHYS,1
+Colombia,2024,SOCI,2
+Croatia,2024,AGRI,1
+Croatia,2024,BIOC,1
+Croatia,2024,BUSI,1
+Croatia,2024,CHEM,1
+Croatia,2024,ECON,1
+Croatia,2024,ENER,1
+Croatia,2024,ENGI,1
+Croatia,2024,ENVI,1
+Croatia,2024,MATH,1
+Croatia,2024,PHAR,1
+Croatia,2024,SOCI,1
+Cuba,2024,PHAR,1
+Cuba,2024,VETE,1
+Cyprus,2024,BIOC,2
+Cyprus,2024,DENT,2
+Czech Republic,2024,BIOC,3
+Czech Republic,2024,CENG,1
+Czech Republic,2024,CHEM,1
+Czech Republic,2024,DENT,1
+Czech Republic,2024,ENER,1
+Czech Republic,2024,ENGI,1
+Czech Republic,2024,ENVI,1
+Czech Republic,2024,MATH,1
+Czech Republic,2024,MULT,1
+Czech Republic,2024,NEUR,2
+Czech Republic,2024,PHYS,1
+Denmark,2024,CENG,1
+Denmark,2024,COMP,1
+Denmark,2024,ECON,1
+Denmark,2024,ENER,5
+Denmark,2024,ENGI,5
+Denmark,2024,ENVI,5
+Denmark,2024,HEAL,4
+Denmark,2024,MATH,5
+Denmark,2024,MULT,1
+Denmark,2024,NEUR,4
+Denmark,2024,NURS,2
+Denmark,2024,PSYC,3
+Denmark,2024,VETE,6
+Ecuador,2024,ARTS,1
+Ecuador,2024,MEDI,2
+Ecuador,2024,MULT,1
+Ecuador,2024,SOCI,1
+Egypt,2024,AGRI,3
+Egypt,2024,ARTS,1
+Egypt,2024,BIOC,7
+Egypt,2024,CENG,1
+Egypt,2024,CHEM,1
+Egypt,2024,DENT,24
+Egypt,2024,ENER,3
+Egypt,2024,ENGI,3
+Egypt,2024,ENVI,4
+Egypt,2024,IMMU,7
+Egypt,2024,MATE,2
+Egypt,2024,MATH,3
+Egypt,2024,MEDI,5
+Egypt,2024,MULT,3
+Egypt,2024,NURS,7
+Egypt,2024,PHAR,10
+Egypt,2024,PHYS,1
+Egypt,2024,SOCI,1
+Egypt,2024,VETE,7
+Estonia,2024,AGRI,1
+Estonia,2024,BUSI,1
+Estonia,2024,EART,2
+Estonia,2024,ECON,1
+Estonia,2024,SOCI,1
+Ethiopia,2024,BIOC,1
+Ethiopia,2024,DECI,2
+Ethiopia,2024,EART,1
+Ethiopia,2024,HEAL,2
+Ethiopia,2024,MULT,5
+Ethiopia,2024,NURS,3
+Ethiopia,2024,VETE,2
+Fiji,2024,AGRI,1
+Fiji,2024,ENVI,1
+Finland,2024,CENG,1
+Finland,2024,ENER,1
+Finland,2024,ENGI,1
+Finland,2024,ENVI,1
+Finland,2024,HEAL,2
+Finland,2024,MATE,1
+Finland,2024,MATH,1
+Finland,2024,MULT,2
+Finland,2024,NURS,1
+Finland,2024,PHYS,1
+France,2024,AGRI,4
+France,2024,ARTS,2
+France,2024,BUSI,12
+France,2024,CENG,1
+France,2024,CHEM,4
+France,2024,COMP,6
+France,2024,DECI,7
+France,2024,DENT,2
+France,2024,EART,14
+France,2024,ECON,3
+France,2024,ENER,3
+France,2024,ENGI,2
+France,2024,ENVI,2
+France,2024,HEAL,3
+France,2024,IMMU,1
+France,2024,MATE,5
+France,2024,MATH,4
+France,2024,MULT,7
+France,2024,NEUR,11
+France,2024,NURS,6
+France,2024,PHAR,6
+France,2024,PHYS,4
+France,2024,SOCI,2
+France,2024,VETE,11
+Gabon,2024,NURS,1
+Georgia,2024,NEUR,1
+Germany,2024,ARTS,31
+Germany,2024,BIOC,6
+Germany,2024,BUSI,1
+Germany,2024,CENG,4
+Germany,2024,CHEM,3
+Germany,2024,COMP,5
+Germany,2024,DECI,7
+Germany,2024,DENT,11
+Germany,2024,EART,10
+Germany,2024,ECON,6
+Germany,2024,ENER,4
+Germany,2024,ENGI,6
+Germany,2024,ENVI,4
+Germany,2024,HEAL,13
+Germany,2024,MATH,4
+Germany,2024,MEDI,1
+Germany,2024,MULT,10
+Germany,2024,NEUR,9
+Germany,2024,NURS,6
+Germany,2024,PHAR,5
+Germany,2024,PHYS,2
+Germany,2024,PSYC,8
+Germany,2024,SOCI,31
+Germany,2024,VETE,6
+Ghana,2024,BUSI,1
+Ghana,2024,ENER,2
+Ghana,2024,ENGI,2
+Ghana,2024,ENVI,1
+Ghana,2024,MATH,2
+Ghana,2024,MEDI,1
+Ghana,2024,NEUR,1
+Ghana,2024,NURS,2
+Ghana,2024,PHYS,1
+Ghana,2024,VETE,5
+Greece,2024,AGRI,1
+Greece,2024,BIOC,2
+Greece,2024,DECI,1
+Greece,2024,ECON,1
+Greece,2024,ENGI,1
+Greece,2024,MULT,1
+Greece,2024,PHYS,2
+Greece,2024,SOCI,3
+Greece,2024,VETE,2
+Guinea,2024,EART,1
+Guyana,2024,DENT,1
+Hong Kong,2024,CENG,1
+Hong Kong,2024,COMP,6
+Hong Kong,2024,DECI,1
+Hong Kong,2024,DENT,6
+Hong Kong,2024,EART,2
+Hong Kong,2024,ECON,1
+Hong Kong,2024,ENER,2
+Hong Kong,2024,ENGI,2
+Hong Kong,2024,ENVI,2
+Hong Kong,2024,HEAL,4
+Hong Kong,2024,MATE,3
+Hong Kong,2024,MATH,3
+Hong Kong,2024,MULT,1
+Hong Kong,2024,NURS,1
+Hong Kong,2024,SOCI,1
+Hong Kong,2024,VETE,2
+Hungary,2024,DENT,4
+Hungary,2024,EART,1
+Hungary,2024,ECON,1
+Hungary,2024,HEAL,1
+Hungary,2024,MULT,1
+Hungary,2024,PHAR,2
+Hungary,2024,VETE,1
+Iceland,2024,BUSI,2
+Iceland,2024,CENG,1
+Iceland,2024,COMP,1
+Iceland,2024,EART,1
+Iceland,2024,NURS,1
+Iceland,2024,PHAR,1
+India,2024,AGRI,13
+India,2024,ARTS,3
+India,2024,BIOC,50
+India,2024,BUSI,8
+India,2024,CENG,10
+India,2024,CHEM,11
+India,2024,COMP,13
+India,2024,DECI,19
+India,2024,DENT,13
+India,2024,EART,5
+India,2024,ECON,14
+India,2024,ENER,7
+India,2024,ENGI,7
+India,2024,ENVI,8
+India,2024,HEAL,8
+India,2024,IMMU,8
+India,2024,MATE,16
+India,2024,MATH,11
+India,2024,MEDI,9
+India,2024,MULT,9
+India,2024,NEUR,10
+India,2024,NURS,1
+India,2024,PHAR,17
+India,2024,PHYS,22
+India,2024,PSYC,2
+India,2024,SOCI,3
+India,2024,VETE,5
+Indonesia,2024,AGRI,8
+Indonesia,2024,ARTS,2
+Indonesia,2024,BIOC,5
+Indonesia,2024,CENG,2
+Indonesia,2024,ECON,18
+Indonesia,2024,ENVI,1
+Indonesia,2024,HEAL,11
+Indonesia,2024,MEDI,3
+Indonesia,2024,MULT,6
+Indonesia,2024,NEUR,1
+Indonesia,2024,NURS,1
+Indonesia,2024,PHAR,2
+Indonesia,2024,PHYS,1
+Indonesia,2024,SOCI,3
+Iran,2024,AGRI,14
+Iran,2024,BIOC,10
+Iran,2024,BUSI,1
+Iran,2024,CENG,1
+Iran,2024,CHEM,9
+Iran,2024,COMP,1
+Iran,2024,DECI,2
+Iran,2024,DENT,17
+Iran,2024,EART,4
+Iran,2024,ECON,2
+Iran,2024,ENER,10
+Iran,2024,ENGI,10
+Iran,2024,ENVI,11
+Iran,2024,HEAL,2
+Iran,2024,IMMU,2
+Iran,2024,MATE,3
+Iran,2024,MATH,10
+Iran,2024,MEDI,5
+Iran,2024,MULT,10
+Iran,2024,NEUR,4
+Iran,2024,NURS,7
+Iran,2024,PHAR,4
+Iran,2024,PHYS,5
+Iran,2024,PSYC,3
+Iran,2024,VETE,1
+Iraq,2024,ARTS,2
+Iraq,2024,CENG,1
+Iraq,2024,DENT,1
+Iraq,2024,ECON,2
+Iraq,2024,HEAL,2
+Iraq,2024,IMMU,3
+Iraq,2024,MATE,1
+Iraq,2024,MEDI,3
+Iraq,2024,MULT,1
+Iraq,2024,NEUR,1
+Iraq,2024,PHAR,4
+Iraq,2024,PHYS,1
+Iraq,2024,SOCI,1
+Ireland,2024,ARTS,1
+Ireland,2024,BUSI,4
+Ireland,2024,COMP,1
+Ireland,2024,DECI,1
+Ireland,2024,DENT,1
+Ireland,2024,EART,3
+Ireland,2024,ECON,3
+Ireland,2024,HEAL,3
+Ireland,2024,MEDI,1
+Ireland,2024,MULT,1
+Ireland,2024,NURS,2
+Ireland,2024,PHAR,3
+Ireland,2024,PSYC,1
+Ireland,2024,SOCI,4
+Israel,2024,ARTS,8
+Israel,2024,BIOC,1
+Israel,2024,CENG,1
+Israel,2024,CHEM,1
+Israel,2024,COMP,2
+Israel,2024,EART,1
+Israel,2024,ECON,1
+Israel,2024,MATE,1
+Israel,2024,MATH,1
+Israel,2024,MEDI,1
+Israel,2024,MULT,4
+Israel,2024,NEUR,3
+Israel,2024,NURS,2
+Israel,2024,PHYS,1
+Israel,2024,SOCI,7
+Israel,2024,VETE,2
+Italy,2024,AGRI,4
+Italy,2024,ARTS,1
+Italy,2024,BIOC,8
+Italy,2024,BUSI,1
+Italy,2024,CENG,3
+Italy,2024,CHEM,3
+Italy,2024,COMP,4
+Italy,2024,DECI,3
+Italy,2024,DENT,10
+Italy,2024,EART,9
+Italy,2024,ECON,6
+Italy,2024,ENER,2
+Italy,2024,ENGI,2
+Italy,2024,ENVI,1
+Italy,2024,HEAL,2
+Italy,2024,IMMU,4
+Italy,2024,MATE,2
+Italy,2024,MATH,1
+Italy,2024,MEDI,6
+Italy,2024,MULT,12
+Italy,2024,NEUR,5
+Italy,2024,NURS,4
+Italy,2024,PHAR,8
+Italy,2024,PHYS,5
+Italy,2024,PSYC,8
+Italy,2024,SOCI,2
+Italy,2024,VETE,7
+Japan,2024,AGRI,6
+Japan,2024,BIOC,26
+Japan,2024,BUSI,1
+Japan,2024,CENG,3
+Japan,2024,CHEM,4
+Japan,2024,COMP,4
+Japan,2024,DECI,3
+Japan,2024,DENT,6
+Japan,2024,EART,7
+Japan,2024,ECON,2
+Japan,2024,ENER,3
+Japan,2024,ENGI,3
+Japan,2024,ENVI,6
+Japan,2024,HEAL,9
+Japan,2024,IMMU,2
+Japan,2024,MATE,3
+Japan,2024,MATH,3
+Japan,2024,MEDI,3
+Japan,2024,MULT,7
+Japan,2024,NEUR,6
+Japan,2024,NURS,12
+Japan,2024,PHAR,3
+Japan,2024,PHYS,5
+Japan,2024,PSYC,7
+Japan,2024,VETE,3
+Jordan,2024,ENER,3
+Jordan,2024,ENGI,3
+Jordan,2024,ENVI,3
+Jordan,2024,MATH,3
+Jordan,2024,NURS,2
+Jordan,2024,PHAR,1
+Kazakhstan,2024,AGRI,1
+Kenya,2024,MULT,1
+Kenya,2024,VETE,1
+Laos,2024,EART,1
+Lebanon,2024,DENT,1
+Lebanon,2024,EART,1
+Lebanon,2024,ECON,1
+Lebanon,2024,MATH,1
+Lebanon,2024,MULT,1
+Lithuania,2024,PHYS,1
+Luxembourg,2024,NEUR,2
+Macao,2024,MULT,2
+Madagascar,2024,VETE,1
+Malaysia,2024,AGRI,3
+Malaysia,2024,ARTS,1
+Malaysia,2024,BIOC,4
+Malaysia,2024,BUSI,1
+Malaysia,2024,CENG,3
+Malaysia,2024,CHEM,2
+Malaysia,2024,COMP,3
+Malaysia,2024,DECI,1
+Malaysia,2024,DENT,1
+Malaysia,2024,EART,1
+Malaysia,2024,ECON,3
+Malaysia,2024,ENER,5
+Malaysia,2024,ENGI,5
+Malaysia,2024,ENVI,6
+Malaysia,2024,HEAL,5
+Malaysia,2024,MATE,1
+Malaysia,2024,MATH,5
+Malaysia,2024,MEDI,1
+Malaysia,2024,MULT,2
+Malaysia,2024,NEUR,2
+Malaysia,2024,NURS,1
+Malaysia,2024,PHYS,1
+Malaysia,2024,SOCI,1
+Malaysia,2024,VETE,3
+Malta,2024,COMP,1
+Malta,2024,SOCI,1
+Mexico,2024,AGRI,4
+Mexico,2024,BIOC,1
+Mexico,2024,BUSI,1
+Mexico,2024,CENG,2
+Mexico,2024,COMP,1
+Mexico,2024,DECI,1
+Mexico,2024,EART,4
+Mexico,2024,ENVI,1
+Mexico,2024,MATE,1
+Mexico,2024,MATH,1
+Mexico,2024,MEDI,2
+Mexico,2024,MULT,2
+Mexico,2024,NEUR,1
+Mexico,2024,PHYS,2
+Mexico,2024,SOCI,1
+Mexico,2024,VETE,1
+Moldova,2024,NURS,1
+Monaco,2024,MULT,1
+Mongolia,2024,EART,1
+Morocco,2024,AGRI,1
+Morocco,2024,ARTS,1
+Morocco,2024,BIOC,4
+Morocco,2024,BUSI,1
+Morocco,2024,CENG,4
+Morocco,2024,CHEM,1
+Morocco,2024,EART,1
+Morocco,2024,ECON,1
+Morocco,2024,ENVI,1
+Morocco,2024,HEAL,1
+Morocco,2024,MULT,3
+Morocco,2024,PSYC,1
+Morocco,2024,SOCI,2
+Morocco,2024,VETE,1
+Nepal,2024,DENT,1
+Nepal,2024,ECON,1
+Nepal,2024,MULT,2
+Netherlands,2024,AGRI,1
+Netherlands,2024,ARTS,1
+Netherlands,2024,BIOC,1
+Netherlands,2024,BUSI,1
+Netherlands,2024,CENG,1
+Netherlands,2024,COMP,2
+Netherlands,2024,DECI,1
+Netherlands,2024,DENT,5
+Netherlands,2024,EART,3
+Netherlands,2024,HEAL,6
+Netherlands,2024,MULT,5
+Netherlands,2024,NEUR,4
+Netherlands,2024,NURS,4
+Netherlands,2024,PSYC,3
+Netherlands,2024,VETE,6
+New Zealand,2024,AGRI,1
+New Zealand,2024,ARTS,2
+New Zealand,2024,EART,3
+New Zealand,2024,HEAL,1
+New Zealand,2024,MEDI,2
+New Zealand,2024,NURS,4
+New Zealand,2024,PHAR,1
+New Zealand,2024,PHYS,1
+New Zealand,2024,SOCI,2
+New Zealand,2024,VETE,1
+Nicaragua,2024,DENT,1
+Nigeria,2024,BIOC,1
+Nigeria,2024,DECI,1
+Nigeria,2024,DENT,2
+Nigeria,2024,ECON,3
+Nigeria,2024,HEAL,1
+Nigeria,2024,MULT,1
+Nigeria,2024,NEUR,2
+Nigeria,2024,NURS,2
+Nigeria,2024,VETE,5
+Norway,2024,ARTS,1
+Norway,2024,BIOC,1
+Norway,2024,CENG,1
+Norway,2024,CHEM,1
+Norway,2024,DENT,1
+Norway,2024,EART,1
+Norway,2024,ECON,3
+Norway,2024,ENER,2
+Norway,2024,ENGI,2
+Norway,2024,ENVI,2
+Norway,2024,HEAL,3
+Norway,2024,MATH,3
+Norway,2024,NEUR,1
+Norway,2024,NURS,2
+Oman,2024,ARTS,1
+Oman,2024,BUSI,1
+Oman,2024,MEDI,1
+Oman,2024,SOCI,2
+Pakistan,2024,AGRI,3
+Pakistan,2024,CENG,3
+Pakistan,2024,CHEM,4
+Pakistan,2024,DECI,1
+Pakistan,2024,DENT,4
+Pakistan,2024,EART,6
+Pakistan,2024,ECON,1
+Pakistan,2024,IMMU,2
+Pakistan,2024,MATE,4
+Pakistan,2024,MATH,1
+Pakistan,2024,MEDI,4
+Pakistan,2024,MULT,5
+Pakistan,2024,NURS,1
+Pakistan,2024,PHAR,1
+Pakistan,2024,PHYS,10
+Pakistan,2024,VETE,2
+Palestine,2024,ARTS,11
+Peru,2024,AGRI,1
+Peru,2024,BIOC,1
+Peru,2024,ECON,1
+Peru,2024,MULT,1
+Peru,2024,NEUR,1
+Peru,2024,SOCI,1
+Philippines,2024,AGRI,3
+Philippines,2024,ECON,4
+Philippines,2024,ENVI,2
+Philippines,2024,MULT,1
+Philippines,2024,PSYC,1
+Philippines,2024,SOCI,1
+Philippines,2024,VETE,1
+Poland,2024,ARTS,1
+Poland,2024,BIOC,2
+Poland,2024,BUSI,14
+Poland,2024,CENG,1
+Poland,2024,COMP,2
+Poland,2024,DENT,2
+Poland,2024,EART,3
+Poland,2024,ECON,14
+Poland,2024,ENER,3
+Poland,2024,ENGI,3
+Poland,2024,ENVI,3
+Poland,2024,MATE,2
+Poland,2024,MATH,4
+Poland,2024,MULT,1
+Poland,2024,NEUR,1
+Poland,2024,NURS,2
+Poland,2024,PHAR,1
+Poland,2024,PHYS,3
+Poland,2024,SOCI,1
+Poland,2024,VETE,3
+Portugal,2024,AGRI,3
+Portugal,2024,BIOC,2
+Portugal,2024,BUSI,3
+Portugal,2024,CENG,4
+Portugal,2024,CHEM,1
+Portugal,2024,COMP,2
+Portugal,2024,DECI,2
+Portugal,2024,EART,3
+Portugal,2024,ECON,3
+Portugal,2024,ENVI,1
+Portugal,2024,HEAL,4
+Portugal,2024,IMMU,1
+Portugal,2024,MEDI,1
+Portugal,2024,MULT,3
+Portugal,2024,NEUR,3
+Portugal,2024,PHAR,3
+Portugal,2024,PSYC,2
+Portugal,2024,SOCI,2
+Qatar,2024,ARTS,3
+Qatar,2024,BIOC,1
+Qatar,2024,CENG,1
+Qatar,2024,MEDI,1
+Qatar,2024,PHYS,1
+Romania,2024,ENVI,1
+Romania,2024,PHYS,1
+Romania,2024,SOCI,1
+Romania,2024,VETE,1
+Russian Federation,2024,BIOC,6
+Russian Federation,2024,CENG,1
+Russian Federation,2024,CHEM,4
+Russian Federation,2024,COMP,2
+Russian Federation,2024,EART,1
+Russian Federation,2024,ECON,13
+Russian Federation,2024,ENER,2
+Russian Federation,2024,ENGI,2
+Russian Federation,2024,ENVI,2
+Russian Federation,2024,MATE,5
+Russian Federation,2024,MATH,2
+Russian Federation,2024,MEDI,1
+Russian Federation,2024,MULT,2
+Russian Federation,2024,NEUR,1
+Russian Federation,2024,NURS,2
+Russian Federation,2024,PHYS,7
+Rwanda,2024,DENT,2
+Rwanda,2024,VETE,1
+Saudi Arabia,2024,AGRI,1
+Saudi Arabia,2024,ARTS,1
+Saudi Arabia,2024,BIOC,1
+Saudi Arabia,2024,CENG,5
+Saudi Arabia,2024,COMP,4
+Saudi Arabia,2024,DENT,10
+Saudi Arabia,2024,ECON,3
+Saudi Arabia,2024,ENER,2
+Saudi Arabia,2024,ENGI,2
+Saudi Arabia,2024,ENVI,3
+Saudi Arabia,2024,HEAL,3
+Saudi Arabia,2024,MATE,3
+Saudi Arabia,2024,MATH,1
+Saudi Arabia,2024,MEDI,1
+Saudi Arabia,2024,NEUR,3
+Saudi Arabia,2024,NURS,1
+Saudi Arabia,2024,PHYS,2
+Saudi Arabia,2024,PSYC,2
+Serbia,2024,ARTS,1
+Serbia,2024,ENER,1
+Serbia,2024,ENGI,1
+Serbia,2024,ENVI,1
+Serbia,2024,MATE,1
+Serbia,2024,MATH,1
+Serbia,2024,PHYS,1
+Serbia,2024,SOCI,2
+Serbia,2024,VETE,1
+Singapore,2024,ARTS,1
+Singapore,2024,BIOC,1
+Singapore,2024,BUSI,1
+Singapore,2024,CENG,1
+Singapore,2024,CHEM,1
+Singapore,2024,COMP,1
+Singapore,2024,DECI,2
+Singapore,2024,DENT,2
+Singapore,2024,ENER,3
+Singapore,2024,ENGI,3
+Singapore,2024,ENVI,2
+Singapore,2024,MATH,2
+Singapore,2024,MULT,2
+Singapore,2024,NEUR,1
+Singapore,2024,NURS,1
+Singapore,2024,PSYC,1
+Singapore,2024,SOCI,1
+Singapore,2024,VETE,2
+Slovakia,2024,ECON,1
+Slovenia,2024,CHEM,1
+Slovenia,2024,COMP,1
+Slovenia,2024,MULT,2
+Slovenia,2024,PHAR,1
+South Africa,2024,AGRI,1
+South Africa,2024,ARTS,1
+South Africa,2024,BIOC,3
+South Africa,2024,BUSI,4
+South Africa,2024,COMP,3
+South Africa,2024,DENT,1
+South Africa,2024,EART,2
+South Africa,2024,ECON,3
+South Africa,2024,MULT,2
+South Africa,2024,NEUR,2
+South Africa,2024,SOCI,8
+South Africa,2024,VETE,4
+South Korea,2024,AGRI,4
+South Korea,2024,ARTS,1
+South Korea,2024,BIOC,10
+South Korea,2024,BUSI,5
+South Korea,2024,CENG,32
+South Korea,2024,CHEM,12
+South Korea,2024,COMP,9
+South Korea,2024,DECI,8
+South Korea,2024,DENT,9
+South Korea,2024,ECON,3
+South Korea,2024,ENER,4
+South Korea,2024,ENGI,4
+South Korea,2024,ENVI,4
+South Korea,2024,HEAL,4
+South Korea,2024,IMMU,1
+South Korea,2024,MATE,18
+South Korea,2024,MATH,4
+South Korea,2024,MEDI,1
+South Korea,2024,MULT,10
+South Korea,2024,NEUR,8
+South Korea,2024,NURS,3
+South Korea,2024,PHAR,3
+South Korea,2024,PHYS,7
+South Korea,2024,PSYC,5
+South Korea,2024,SOCI,2
+South Korea,2024,VETE,6
+Spain,2024,AGRI,3
+Spain,2024,ARTS,3
+Spain,2024,BIOC,4
+Spain,2024,BUSI,1
+Spain,2024,CENG,3
+Spain,2024,CHEM,4
+Spain,2024,COMP,1
+Spain,2024,DECI,4
+Spain,2024,DENT,3
+Spain,2024,EART,4
+Spain,2024,ECON,6
+Spain,2024,ENER,4
+Spain,2024,ENGI,4
+Spain,2024,ENVI,6
+Spain,2024,HEAL,11
+Spain,2024,MATE,3
+Spain,2024,MATH,4
+Spain,2024,MULT,4
+Spain,2024,NEUR,6
+Spain,2024,NURS,2
+Spain,2024,PHAR,3
+Spain,2024,PHYS,2
+Spain,2024,PSYC,2
+Spain,2024,SOCI,4
+Spain,2024,VETE,9
+Sri Lanka,2024,CENG,1
+Sri Lanka,2024,DECI,1
+Sudan,2024,AGRI,1
+Sudan,2024,NURS,1
+Sweden,2024,ARTS,4
+Sweden,2024,BIOC,1
+Sweden,2024,CENG,1
+Sweden,2024,COMP,2
+Sweden,2024,DENT,3
+Sweden,2024,EART,14
+Sweden,2024,ECON,13
+Sweden,2024,ENER,1
+Sweden,2024,ENGI,2
+Sweden,2024,ENVI,2
+Sweden,2024,HEAL,4
+Sweden,2024,MATH,1
+Sweden,2024,MEDI,1
+Sweden,2024,MULT,1
+Sweden,2024,NEUR,2
+Sweden,2024,NURS,1
+Sweden,2024,PHAR,2
+Sweden,2024,SOCI,2
+Sweden,2024,VETE,3
+Switzerland,2024,ARTS,6
+Switzerland,2024,BIOC,1
+Switzerland,2024,BUSI,2
+Switzerland,2024,COMP,7
+Switzerland,2024,DECI,2
+Switzerland,2024,DENT,2
+Switzerland,2024,EART,2
+Switzerland,2024,ECON,2
+Switzerland,2024,HEAL,4
+Switzerland,2024,MATE,1
+Switzerland,2024,MATH,1
+Switzerland,2024,MULT,4
+Switzerland,2024,NEUR,1
+Switzerland,2024,NURS,5
+Switzerland,2024,PHAR,3
+Switzerland,2024,PHYS,2
+Switzerland,2024,PSYC,1
+Switzerland,2024,SOCI,7
+Switzerland,2024,VETE,8
+Syrian Arab Republic,2024,ARTS,1
+Syrian Arab Republic,2024,DENT,3
+Taiwan,2024,AGRI,4
+Taiwan,2024,BUSI,1
+Taiwan,2024,CENG,3
+Taiwan,2024,CHEM,2
+Taiwan,2024,DECI,5
+Taiwan,2024,DENT,3
+Taiwan,2024,EART,2
+Taiwan,2024,ECON,1
+Taiwan,2024,ENVI,1
+Taiwan,2024,IMMU,1
+Taiwan,2024,MATE,6
+Taiwan,2024,MEDI,1
+Taiwan,2024,MULT,3
+Taiwan,2024,NEUR,1
+Taiwan,2024,NURS,2
+Taiwan,2024,PHAR,2
+Taiwan,2024,PHYS,1
+Taiwan,2024,PSYC,2
+Taiwan,2024,SOCI,1
+Taiwan,2024,VETE,5
+Tanzania,2024,MEDI,3
+Tanzania,2024,MULT,3
+Tanzania,2024,PHYS,1
+Thailand,2024,AGRI,5
+Thailand,2024,ARTS,1
+Thailand,2024,BIOC,1
+Thailand,2024,CENG,1
+Thailand,2024,CHEM,4
+Thailand,2024,DECI,1
+Thailand,2024,DENT,2
+Thailand,2024,ECON,1
+Thailand,2024,ENER,2
+Thailand,2024,ENGI,2
+Thailand,2024,ENVI,2
+Thailand,2024,HEAL,3
+Thailand,2024,IMMU,1
+Thailand,2024,MATE,1
+Thailand,2024,MATH,2
+Thailand,2024,MEDI,1
+Thailand,2024,MULT,1
+Thailand,2024,NEUR,1
+Thailand,2024,PHAR,1
+Thailand,2024,PSYC,2
+Thailand,2024,SOCI,1
+Thailand,2024,VETE,3
+Togo,2024,PHYS,1
+Tunisia,2024,AGRI,2
+Tunisia,2024,BUSI,1
+Tunisia,2024,CENG,1
+Tunisia,2024,CHEM,1
+Tunisia,2024,DECI,1
+Tunisia,2024,DENT,1
+Tunisia,2024,ENER,2
+Tunisia,2024,ENGI,2
+Tunisia,2024,ENVI,3
+Tunisia,2024,HEAL,1
+Tunisia,2024,MATE,2
+Tunisia,2024,MATH,2
+Tunisia,2024,MULT,1
+Tunisia,2024,PHYS,1
+Tunisia,2024,VETE,1
+Turkey,2024,AGRI,3
+Turkey,2024,ARTS,2
+Turkey,2024,BIOC,1
+Turkey,2024,BUSI,2
+Turkey,2024,CHEM,2
+Turkey,2024,COMP,2
+Turkey,2024,DECI,6
+Turkey,2024,DENT,23
+Turkey,2024,EART,2
+Turkey,2024,ECON,1
+Turkey,2024,ENER,5
+Turkey,2024,ENGI,6
+Turkey,2024,ENVI,5
+Turkey,2024,IMMU,1
+Turkey,2024,MATE,4
+Turkey,2024,MATH,5
+Turkey,2024,MULT,2
+Turkey,2024,NURS,9
+Turkey,2024,PHAR,1
+Turkey,2024,PHYS,2
+Turkey,2024,PSYC,1
+Turkey,2024,SOCI,2
+Turkey,2024,VETE,2
+Uganda,2024,BUSI,1
+Uganda,2024,COMP,1
+Uganda,2024,DENT,3
+Uganda,2024,SOCI,1
+Uganda,2024,VETE,1
+Ukraine,2024,AGRI,1
+Ukraine,2024,BIOC,4
+Ukraine,2024,ENER,1
+Ukraine,2024,ENGI,1
+Ukraine,2024,ENVI,1
+Ukraine,2024,MATH,4
+Ukraine,2024,MEDI,1
+Ukraine,2024,MULT,1
+Ukraine,2024,SOCI,1
+United Arab Emirates,2024,AGRI,1
+United Arab Emirates,2024,ARTS,1
+United Arab Emirates,2024,CENG,2
+United Arab Emirates,2024,CHEM,2
+United Arab Emirates,2024,COMP,2
+United Arab Emirates,2024,ENER,1
+United Arab Emirates,2024,ENGI,1
+United Arab Emirates,2024,ENVI,1
+United Arab Emirates,2024,HEAL,2
+United Arab Emirates,2024,IMMU,1
+United Arab Emirates,2024,MATH,1
+United Arab Emirates,2024,MEDI,1
+United Arab Emirates,2024,MULT,2
+United Arab Emirates,2024,NURS,1
+United Arab Emirates,2024,PHAR,2
+United Arab Emirates,2024,PHYS,1
+United Arab Emirates,2024,SOCI,2
+United Kingdom,2024,ARTS,22
+United Kingdom,2024,BIOC,8
+United Kingdom,2024,BUSI,23
+United Kingdom,2024,CENG,4
+United Kingdom,2024,CHEM,2
+United Kingdom,2024,COMP,8
+United Kingdom,2024,DECI,6
+United Kingdom,2024,DENT,5
+United Kingdom,2024,EART,39
+United Kingdom,2024,ECON,32
+United Kingdom,2024,ENER,3
+United Kingdom,2024,ENGI,5
+United Kingdom,2024,ENVI,4
+United Kingdom,2024,HEAL,46
+United Kingdom,2024,MATH,6
+United Kingdom,2024,MEDI,8
+United Kingdom,2024,MULT,3
+United Kingdom,2024,NEUR,9
+United Kingdom,2024,NURS,16
+United Kingdom,2024,PHAR,10
+United Kingdom,2024,PHYS,3
+United Kingdom,2024,PSYC,23
+United Kingdom,2024,SOCI,37
+United Kingdom,2024,VETE,13
+United States,2024,AGRI,4
+United States,2024,ARTS,46
+United States,2024,BIOC,37
+United States,2024,BUSI,22
+United States,2024,CENG,7
+United States,2024,CHEM,2
+United States,2024,COMP,40
+United States,2024,DECI,21
+United States,2024,DENT,14
+United States,2024,EART,24
+United States,2024,ECON,16
+United States,2024,ENER,9
+United States,2024,ENGI,11
+United States,2024,ENVI,8
+United States,2024,HEAL,63
+United States,2024,IMMU,3
+United States,2024,MATE,6
+United States,2024,MATH,9
+United States,2024,MEDI,35
+United States,2024,MULT,28
+United States,2024,NEUR,48
+United States,2024,NURS,67
+United States,2024,PHAR,8
+United States,2024,PHYS,8
+United States,2024,PSYC,63
+United States,2024,SOCI,58
+United States,2024,VETE,66
+Uruguay,2024,MULT,1
+Venezuela,2024,ARTS,4
+Venezuela,2024,DENT,1
+Venezuela,2024,SOCI,4
+Viet Nam,2024,AGRI,5
+Viet Nam,2024,BUSI,3
+Viet Nam,2024,CENG,1
+Viet Nam,2024,CHEM,2
+Viet Nam,2024,COMP,1
+Viet Nam,2024,DECI,1
+Viet Nam,2024,ECON,7
+Viet Nam,2024,NEUR,1
+Viet Nam,2024,NURS,1
+Viet Nam,2024,PHYS,1
+Viet Nam,2024,SOCI,4
+Viet Nam,2024,VETE,1
+Yemen,2024,AGRI,1
+Yemen,2024,CHEM,1
+Zambia,2024,VETE,1

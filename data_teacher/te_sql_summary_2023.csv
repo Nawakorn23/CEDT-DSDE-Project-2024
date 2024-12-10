@@ -1,0 +1,1022 @@
+Country,Year,Subject Area,Number of Documents
+Afghanistan,2023,MEDI,1
+Albania,2023,MEDI,3
+Algeria,2023,MEDI,1
+Algeria,2023,PSYC,1
+Argentina,2023,AGRI,1
+Argentina,2023,MEDI,16
+Argentina,2023,MULT,1
+Argentina,2023,NEUR,1
+Argentina,2023,PSYC,2
+Argentina,2023,SOCI,1
+Armenia,2023,ENGI,5
+Armenia,2023,MEDI,4
+Armenia,2023,PHYS,25
+Australia,2023,AGRI,6
+Australia,2023,BIOC,10
+Australia,2023,BUSI,6
+Australia,2023,CENG,2
+Australia,2023,CHEM,5
+Australia,2023,COMP,1
+Australia,2023,DENT,2
+Australia,2023,EART,2
+Australia,2023,ECON,6
+Australia,2023,ENER,2
+Australia,2023,ENGI,10
+Australia,2023,ENVI,4
+Australia,2023,IMMU,3
+Australia,2023,MATE,1
+Australia,2023,MATH,2
+Australia,2023,MEDI,55
+Australia,2023,MULT,11
+Australia,2023,NEUR,9
+Australia,2023,NURS,2
+Australia,2023,PHAR,2
+Australia,2023,PHYS,10
+Australia,2023,PSYC,7
+Australia,2023,SOCI,11
+Australia,2023,VETE,1
+Austria,2023,AGRI,2
+Austria,2023,BIOC,1
+Austria,2023,CENG,1
+Austria,2023,CHEM,4
+Austria,2023,ENGI,5
+Austria,2023,MATE,3
+Austria,2023,MEDI,12
+Austria,2023,MULT,4
+Austria,2023,NEUR,4
+Austria,2023,PHYS,25
+Austria,2023,PSYC,2
+Austria,2023,SOCI,3
+Bahrain,2023,MEDI,2
+Bahrain,2023,PSYC,1
+Bangladesh,2023,AGRI,2
+Bangladesh,2023,BIOC,1
+Bangladesh,2023,COMP,1
+Bangladesh,2023,EART,1
+Bangladesh,2023,ECON,1
+Bangladesh,2023,ENER,1
+Bangladesh,2023,ENVI,1
+Bangladesh,2023,MEDI,8
+Bangladesh,2023,PSYC,2
+Belarus,2023,ENGI,1
+Belarus,2023,MEDI,2
+Belarus,2023,PHYS,2
+Belarus,2023,PSYC,1
+Belgium,2023,AGRI,3
+Belgium,2023,CENG,1
+Belgium,2023,ENGI,5
+Belgium,2023,ENVI,1
+Belgium,2023,IMMU,1
+Belgium,2023,MATH,1
+Belgium,2023,MEDI,15
+Belgium,2023,NEUR,1
+Belgium,2023,PHYS,26
+Belgium,2023,PSYC,4
+Benin,2023,MEDI,2
+Bhutan,2023,AGRI,1
+Bolivia,2023,MEDI,3
+Bolivia,2023,SOCI,1
+Bosnia and Herzegovina,2023,MEDI,1
+Botswana,2023,MEDI,1
+Brazil,2023,AGRI,4
+Brazil,2023,BIOC,1
+Brazil,2023,CENG,1
+Brazil,2023,DENT,1
+Brazil,2023,ENER,2
+Brazil,2023,ENGI,6
+Brazil,2023,ENVI,2
+Brazil,2023,IMMU,2
+Brazil,2023,MATE,1
+Brazil,2023,MEDI,34
+Brazil,2023,MULT,1
+Brazil,2023,NEUR,5
+Brazil,2023,PHAR,1
+Brazil,2023,PHYS,25
+Brazil,2023,PSYC,4
+Brazil,2023,SOCI,2
+Brunei Darussalam,2023,AGRI,1
+Brunei Darussalam,2023,MEDI,1
+Bulgaria,2023,AGRI,2
+Bulgaria,2023,BIOC,6
+Bulgaria,2023,ENGI,5
+Bulgaria,2023,IMMU,1
+Bulgaria,2023,MEDI,11
+Bulgaria,2023,MULT,2
+Bulgaria,2023,NEUR,10
+Bulgaria,2023,NURS,1
+Bulgaria,2023,PHYS,25
+Bulgaria,2023,PSYC,4
+Bulgaria,2023,SOCI,3
+Burundi,2023,MULT,1
+Cambodia,2023,BIOC,1
+Cambodia,2023,DENT,1
+Cambodia,2023,EART,1
+Cambodia,2023,ENGI,1
+Cambodia,2023,MATE,1
+Cambodia,2023,MEDI,4
+Cambodia,2023,MULT,1
+Cambodia,2023,NEUR,1
+Cambodia,2023,NURS,2
+Cambodia,2023,PHAR,1
+Cambodia,2023,SOCI,2
+Cameroon,2023,MEDI,3
+Cameroon,2023,NEUR,1
+Canada,2023,AGRI,8
+Canada,2023,BIOC,3
+Canada,2023,CENG,2
+Canada,2023,CHEM,4
+Canada,2023,ENER,2
+Canada,2023,ENGI,4
+Canada,2023,ENVI,1
+Canada,2023,IMMU,1
+Canada,2023,MATE,4
+Canada,2023,MATH,1
+Canada,2023,MEDI,46
+Canada,2023,MULT,3
+Canada,2023,NEUR,5
+Canada,2023,NURS,1
+Canada,2023,PHYS,1
+Canada,2023,PSYC,6
+Canada,2023,SOCI,3
+Canada,2023,VETE,1
+Cape Verde,2023,MEDI,1
+Cape Verde,2023,PHAR,1
+Chile,2023,BIOC,1
+Chile,2023,CENG,1
+Chile,2023,ENER,1
+Chile,2023,ENVI,2
+Chile,2023,IMMU,1
+Chile,2023,MEDI,11
+Chile,2023,MULT,1
+Chile,2023,NEUR,2
+Chile,2023,PHAR,1
+Chile,2023,PHYS,7
+Chile,2023,PSYC,4
+Chile,2023,SOCI,1
+China,2023,AGRI,13
+China,2023,ARTS,1
+China,2023,BIOC,7
+China,2023,CENG,16
+China,2023,CHEM,18
+China,2023,COMP,4
+China,2023,DENT,1
+China,2023,EART,4
+China,2023,ECON,2
+China,2023,ENER,9
+China,2023,ENGI,12
+China,2023,ENVI,13
+China,2023,IMMU,6
+China,2023,MATE,11
+China,2023,MEDI,40
+China,2023,MULT,13
+China,2023,NEUR,7
+China,2023,NURS,1
+China,2023,PHAR,3
+China,2023,PHYS,30
+China,2023,PSYC,8
+China,2023,SOCI,4
+Colombia,2023,ENGI,5
+Colombia,2023,IMMU,1
+Colombia,2023,MEDI,5
+Colombia,2023,PHYS,25
+Colombia,2023,PSYC,3
+Colombia,2023,SOCI,1
+Costa Rica,2023,MEDI,1
+Costa Rica,2023,PHYS,1
+Costa Rica,2023,PSYC,1
+Cote d'Ivoire,2023,IMMU,1
+Cote d'Ivoire,2023,MEDI,1
+Croatia,2023,ENGI,5
+Croatia,2023,MEDI,5
+Croatia,2023,MULT,1
+Croatia,2023,NEUR,2
+Croatia,2023,PHAR,1
+Croatia,2023,PHYS,25
+Croatia,2023,PSYC,1
+Croatia,2023,SOCI,1
+Cuba,2023,MEDI,1
+Cyprus,2023,ENGI,5
+Cyprus,2023,MEDI,1
+Cyprus,2023,PHYS,25
+Cyprus,2023,PSYC,2
+Cyprus,2023,SOCI,1
+Czech Republic,2023,CENG,1
+Czech Republic,2023,COMP,1
+Czech Republic,2023,ENGI,5
+Czech Republic,2023,MATE,2
+Czech Republic,2023,MEDI,6
+Czech Republic,2023,NEUR,1
+Czech Republic,2023,PHYS,25
+Czech Republic,2023,PSYC,2
+Czech Republic,2023,SOCI,2
+Democratic Republic Congo,2023,MEDI,3
+Denmark,2023,AGRI,1
+Denmark,2023,BIOC,2
+Denmark,2023,BUSI,1
+Denmark,2023,CENG,1
+Denmark,2023,DENT,1
+Denmark,2023,ENVI,1
+Denmark,2023,MEDI,19
+Denmark,2023,MULT,3
+Denmark,2023,NEUR,3
+Denmark,2023,PHYS,2
+Denmark,2023,PSYC,1
+Denmark,2023,SOCI,1
+Denmark,2023,VETE,1
+Dominican Republic,2023,MEDI,1
+Ecuador,2023,AGRI,1
+Ecuador,2023,CENG,1
+Ecuador,2023,ENGI,5
+Ecuador,2023,MATH,1
+Ecuador,2023,MEDI,3
+Ecuador,2023,MULT,1
+Ecuador,2023,PHYS,25
+Ecuador,2023,PSYC,1
+Egypt,2023,AGRI,3
+Egypt,2023,BIOC,2
+Egypt,2023,DENT,1
+Egypt,2023,EART,1
+Egypt,2023,ENGI,6
+Egypt,2023,IMMU,1
+Egypt,2023,MEDI,6
+Egypt,2023,NEUR,1
+Egypt,2023,PHYS,25
+Egypt,2023,PSYC,2
+Estonia,2023,ENGI,5
+Estonia,2023,MEDI,1
+Estonia,2023,MULT,1
+Estonia,2023,PHYS,25
+Estonia,2023,PSYC,2
+Ethiopia,2023,AGRI,1
+Ethiopia,2023,BIOC,1
+Ethiopia,2023,COMP,1
+Ethiopia,2023,MEDI,6
+Ethiopia,2023,SOCI,1
+Federated States of Micronesia,2023,BIOC,1
+Federated States of Micronesia,2023,COMP,1
+Fiji,2023,MEDI,1
+Finland,2023,AGRI,1
+Finland,2023,BIOC,1
+Finland,2023,ENGI,5
+Finland,2023,ENVI,1
+Finland,2023,MEDI,6
+Finland,2023,MULT,1
+Finland,2023,PHYS,25
+Finland,2023,PSYC,1
+France,2023,AGRI,1
+France,2023,BIOC,3
+France,2023,BUSI,3
+France,2023,CENG,1
+France,2023,CHEM,1
+France,2023,COMP,2
+France,2023,DENT,4
+France,2023,ENGI,10
+France,2023,ENVI,1
+France,2023,IMMU,3
+France,2023,MATE,3
+France,2023,MATH,1
+France,2023,MEDI,28
+France,2023,MULT,4
+France,2023,NEUR,4
+France,2023,PHYS,30
+France,2023,PSYC,5
+France,2023,SOCI,2
+Gabon,2023,MEDI,1
+Georgia,2023,ENGI,5
+Georgia,2023,MEDI,3
+Georgia,2023,PHYS,25
+Georgia,2023,PSYC,1
+Georgia,2023,SOCI,1
+Germany,2023,AGRI,21
+Germany,2023,ARTS,1
+Germany,2023,BIOC,8
+Germany,2023,BUSI,2
+Germany,2023,CENG,5
+Germany,2023,CHEM,3
+Germany,2023,EART,1
+Germany,2023,ENGI,6
+Germany,2023,ENVI,3
+Germany,2023,HEAL,1
+Germany,2023,IMMU,1
+Germany,2023,MATH,1
+Germany,2023,MEDI,33
+Germany,2023,MULT,9
+Germany,2023,NEUR,8
+Germany,2023,PHYS,32
+Germany,2023,PSYC,5
+Germany,2023,SOCI,2
+Germany,2023,VETE,1
+Ghana,2023,IMMU,1
+Ghana,2023,MEDI,3
+Ghana,2023,NURS,1
+Ghana,2023,PSYC,1
+Greece,2023,BIOC,1
+Greece,2023,BUSI,1
+Greece,2023,CHEM,1
+Greece,2023,ENGI,7
+Greece,2023,MEDI,9
+Greece,2023,MULT,1
+Greece,2023,NEUR,1
+Greece,2023,PHYS,26
+Greece,2023,PSYC,2
+Greece,2023,SOCI,1
+Guatemala,2023,MEDI,2
+Guinea,2023,MEDI,1
+Honduras,2023,MEDI,1
+Hong Kong,2023,AGRI,6
+Hong Kong,2023,ARTS,1
+Hong Kong,2023,BIOC,2
+Hong Kong,2023,BUSI,3
+Hong Kong,2023,CENG,2
+Hong Kong,2023,ENER,5
+Hong Kong,2023,ENGI,3
+Hong Kong,2023,ENVI,3
+Hong Kong,2023,MATE,3
+Hong Kong,2023,MEDI,24
+Hong Kong,2023,MULT,2
+Hong Kong,2023,NURS,2
+Hong Kong,2023,PHYS,3
+Hong Kong,2023,PSYC,4
+Hong Kong,2023,SOCI,1
+Hong Kong,2023,VETE,1
+Hungary,2023,AGRI,1
+Hungary,2023,ENGI,5
+Hungary,2023,MEDI,2
+Hungary,2023,MULT,1
+Hungary,2023,PHYS,25
+Hungary,2023,PSYC,3
+Hungary,2023,SOCI,1
+Iceland,2023,CENG,1
+Iceland,2023,MATE,1
+Iceland,2023,MEDI,2
+Iceland,2023,PHAR,1
+Iceland,2023,PSYC,1
+India,2023,AGRI,14
+India,2023,BIOC,17
+India,2023,CENG,8
+India,2023,CHEM,8
+India,2023,COMP,15
+India,2023,DECI,1
+India,2023,EART,3
+India,2023,ENER,6
+India,2023,ENGI,16
+India,2023,ENVI,10
+India,2023,IMMU,1
+India,2023,MATE,11
+India,2023,MATH,2
+India,2023,MEDI,41
+India,2023,MULT,4
+India,2023,NEUR,7
+India,2023,PHAR,6
+India,2023,PHYS,29
+India,2023,PSYC,2
+India,2023,SOCI,3
+Indonesia,2023,AGRI,8
+Indonesia,2023,ARTS,1
+Indonesia,2023,BIOC,3
+Indonesia,2023,BUSI,2
+Indonesia,2023,CENG,2
+Indonesia,2023,CHEM,2
+Indonesia,2023,COMP,3
+Indonesia,2023,EART,4
+Indonesia,2023,ENER,2
+Indonesia,2023,ENGI,7
+Indonesia,2023,ENVI,4
+Indonesia,2023,IMMU,4
+Indonesia,2023,MEDI,26
+Indonesia,2023,MULT,9
+Indonesia,2023,NEUR,1
+Indonesia,2023,NURS,6
+Indonesia,2023,PHAR,5
+Indonesia,2023,PHYS,2
+Indonesia,2023,PSYC,2
+Indonesia,2023,SOCI,2
+Iran,2023,AGRI,2
+Iran,2023,BIOC,2
+Iran,2023,CHEM,1
+Iran,2023,COMP,1
+Iran,2023,DENT,1
+Iran,2023,ENGI,6
+Iran,2023,MATE,2
+Iran,2023,MEDI,3
+Iran,2023,NEUR,3
+Iran,2023,PHYS,26
+Iran,2023,PSYC,3
+Iran,2023,SOCI,1
+Iraq,2023,AGRI,1
+Iraq,2023,BIOC,6
+Iraq,2023,ENER,1
+Iraq,2023,ENGI,1
+Iraq,2023,IMMU,2
+Iraq,2023,MEDI,4
+Iraq,2023,NEUR,5
+Iraq,2023,PSYC,2
+Iraq,2023,SOCI,1
+Ireland,2023,EART,1
+Ireland,2023,ENER,1
+Ireland,2023,ENGI,5
+Ireland,2023,ENVI,1
+Ireland,2023,MEDI,11
+Ireland,2023,MULT,2
+Ireland,2023,PHYS,25
+Ireland,2023,PSYC,2
+Israel,2023,AGRI,1
+Israel,2023,HEAL,1
+Israel,2023,MEDI,8
+Israel,2023,NEUR,1
+Israel,2023,PSYC,6
+Israel,2023,SOCI,1
+Italy,2023,AGRI,2
+Italy,2023,BIOC,3
+Italy,2023,CENG,2
+Italy,2023,CHEM,2
+Italy,2023,COMP,1
+Italy,2023,ENGI,5
+Italy,2023,ENVI,2
+Italy,2023,MEDI,32
+Italy,2023,MULT,3
+Italy,2023,NEUR,5
+Italy,2023,PHAR,1
+Italy,2023,PHYS,33
+Italy,2023,PSYC,5
+Italy,2023,SOCI,3
+Italy,2023,VETE,1
+Jamaica,2023,MEDI,2
+Japan,2023,AGRI,18
+Japan,2023,BIOC,20
+Japan,2023,CENG,16
+Japan,2023,CHEM,24
+Japan,2023,COMP,12
+Japan,2023,DENT,8
+Japan,2023,EART,6
+Japan,2023,ENER,8
+Japan,2023,ENGI,17
+Japan,2023,ENVI,16
+Japan,2023,IMMU,5
+Japan,2023,MATE,18
+Japan,2023,MEDI,46
+Japan,2023,MULT,23
+Japan,2023,NEUR,7
+Japan,2023,NURS,2
+Japan,2023,PHAR,7
+Japan,2023,PHYS,12
+Japan,2023,PSYC,5
+Japan,2023,SOCI,8
+Japan,2023,VETE,2
+Jordan,2023,ARTS,1
+Jordan,2023,MEDI,7
+Jordan,2023,NEUR,1
+Jordan,2023,PHAR,1
+Jordan,2023,SOCI,1
+Kazakhstan,2023,ENGI,1
+Kazakhstan,2023,ENVI,1
+Kazakhstan,2023,MATH,1
+Kazakhstan,2023,MEDI,1
+Kazakhstan,2023,NEUR,1
+Kazakhstan,2023,NURS,1
+Kazakhstan,2023,PHYS,1
+Kazakhstan,2023,PSYC,2
+Kenya,2023,MEDI,2
+Kuwait,2023,ENGI,4
+Kuwait,2023,MEDI,2
+Kuwait,2023,PHYS,25
+Kuwait,2023,PSYC,1
+Kyrgyzstan,2023,MEDI,1
+Kyrgyzstan,2023,NEUR,1
+Laos,2023,AGRI,1
+Laos,2023,CHEM,1
+Laos,2023,NEUR,1
+Laos,2023,SOCI,1
+Latvia,2023,ENGI,5
+Latvia,2023,MEDI,1
+Latvia,2023,PHYS,25
+Latvia,2023,PSYC,3
+Latvia,2023,SOCI,1
+Lebanon,2023,BIOC,1
+Lebanon,2023,CENG,2
+Lebanon,2023,COMP,5
+Lebanon,2023,ENER,1
+Lebanon,2023,ENGI,2
+Lebanon,2023,ENVI,1
+Lebanon,2023,MATH,1
+Lebanon,2023,MEDI,3
+Lebanon,2023,NEUR,1
+Lebanon,2023,PHAR,1
+Lebanon,2023,PHYS,1
+Lebanon,2023,PSYC,1
+Liberia,2023,MEDI,2
+Libya,2023,MEDI,2
+Lithuania,2023,DENT,1
+Lithuania,2023,ENGI,5
+Lithuania,2023,MEDI,1
+Lithuania,2023,PHYS,25
+Lithuania,2023,PSYC,1
+Lithuania,2023,SOCI,1
+Luxembourg,2023,ECON,1
+Luxembourg,2023,MEDI,1
+Macao,2023,MEDI,2
+Macao,2023,PHAR,1
+Macao,2023,PSYC,1
+Madagascar,2023,IMMU,1
+Malawi,2023,AGRI,1
+Malawi,2023,MEDI,1
+Malawi,2023,MULT,1
+Malaysia,2023,AGRI,6
+Malaysia,2023,ARTS,1
+Malaysia,2023,BIOC,4
+Malaysia,2023,CENG,7
+Malaysia,2023,CHEM,1
+Malaysia,2023,COMP,2
+Malaysia,2023,EART,3
+Malaysia,2023,ENER,6
+Malaysia,2023,ENGI,13
+Malaysia,2023,ENVI,3
+Malaysia,2023,IMMU,1
+Malaysia,2023,MATE,3
+Malaysia,2023,MEDI,33
+Malaysia,2023,MULT,2
+Malaysia,2023,NEUR,3
+Malaysia,2023,PHAR,4
+Malaysia,2023,PHYS,25
+Malaysia,2023,PSYC,3
+Malaysia,2023,SOCI,7
+Malaysia,2023,VETE,2
+Maldives,2023,MEDI,1
+Mali,2023,MEDI,1
+Malta,2023,MULT,1
+Malta,2023,NEUR,1
+Malta,2023,PSYC,1
+Mauritania,2023,MEDI,1
+Mexico,2023,AGRI,1
+Mexico,2023,BIOC,2
+Mexico,2023,CENG,1
+Mexico,2023,CHEM,1
+Mexico,2023,ENER,1
+Mexico,2023,ENGI,5
+Mexico,2023,ENVI,1
+Mexico,2023,MATE,2
+Mexico,2023,MEDI,19
+Mexico,2023,MULT,3
+Mexico,2023,NEUR,1
+Mexico,2023,PHYS,27
+Mexico,2023,PSYC,1
+Mexico,2023,SOCI,2
+Mongolia,2023,ENGI,1
+Mongolia,2023,MEDI,3
+Montenegro,2023,ENGI,4
+Montenegro,2023,MEDI,1
+Montenegro,2023,PHYS,25
+Morocco,2023,CHEM,1
+Morocco,2023,MEDI,2
+Morocco,2023,NEUR,1
+Myanmar,2023,AGRI,1
+Myanmar,2023,ENVI,1
+Myanmar,2023,NEUR,1
+Myanmar,2023,PHAR,1
+Nepal,2023,AGRI,2
+Nepal,2023,ENVI,3
+Nepal,2023,MATE,1
+Nepal,2023,MEDI,5
+Nepal,2023,PSYC,1
+Netherlands,2023,AGRI,3
+Netherlands,2023,ARTS,1
+Netherlands,2023,BIOC,1
+Netherlands,2023,CENG,1
+Netherlands,2023,CHEM,1
+Netherlands,2023,DENT,2
+Netherlands,2023,ENVI,2
+Netherlands,2023,MEDI,25
+Netherlands,2023,MULT,3
+Netherlands,2023,NEUR,3
+Netherlands,2023,PHAR,3
+Netherlands,2023,PHYS,1
+Netherlands,2023,PSYC,6
+Netherlands,2023,SOCI,2
+New Zealand,2023,AGRI,2
+New Zealand,2023,CENG,1
+New Zealand,2023,ENGI,6
+New Zealand,2023,ENVI,1
+New Zealand,2023,MEDI,7
+New Zealand,2023,MULT,4
+New Zealand,2023,NEUR,1
+New Zealand,2023,PHYS,12
+New Zealand,2023,PSYC,2
+New Zealand,2023,SOCI,1
+Niger,2023,MEDI,1
+Nigeria,2023,BIOC,1
+Nigeria,2023,ENVI,1
+Nigeria,2023,IMMU,1
+Nigeria,2023,MEDI,5
+Nigeria,2023,NEUR,1
+Nigeria,2023,NURS,1
+Nigeria,2023,PSYC,4
+Nigeria,2023,SOCI,1
+North Macedonia,2023,PSYC,1
+Norway,2023,BUSI,1
+Norway,2023,CENG,1
+Norway,2023,ENGI,1
+Norway,2023,MEDI,7
+Norway,2023,MULT,1
+Norway,2023,NEUR,1
+Norway,2023,PSYC,2
+Norway,2023,SOCI,2
+Oman,2023,MATE,1
+Oman,2023,PSYC,1
+Pakistan,2023,AGRI,3
+Pakistan,2023,BIOC,1
+Pakistan,2023,CENG,2
+Pakistan,2023,CHEM,7
+Pakistan,2023,COMP,6
+Pakistan,2023,DENT,1
+Pakistan,2023,EART,1
+Pakistan,2023,ENGI,7
+Pakistan,2023,ENVI,3
+Pakistan,2023,MATE,5
+Pakistan,2023,MEDI,15
+Pakistan,2023,MULT,1
+Pakistan,2023,NEUR,2
+Pakistan,2023,PHAR,1
+Pakistan,2023,PHYS,26
+Pakistan,2023,PSYC,4
+Pakistan,2023,SOCI,3
+Palestine,2023,MEDI,1
+Palestine,2023,PSYC,2
+Palestine,2023,SOCI,1
+Panama,2023,MEDI,1
+Paraguay,2023,MEDI,3
+Peru,2023,EART,1
+Peru,2023,IMMU,1
+Peru,2023,MEDI,4
+Peru,2023,MULT,1
+Peru,2023,PSYC,2
+Peru,2023,SOCI,1
+Philippines,2023,AGRI,3
+Philippines,2023,BIOC,1
+Philippines,2023,CHEM,2
+Philippines,2023,EART,2
+Philippines,2023,ENER,2
+Philippines,2023,ENGI,1
+Philippines,2023,ENVI,3
+Philippines,2023,HEAL,1
+Philippines,2023,IMMU,1
+Philippines,2023,MATE,1
+Philippines,2023,MEDI,26
+Philippines,2023,MULT,2
+Philippines,2023,NEUR,2
+Philippines,2023,PHAR,4
+Philippines,2023,PSYC,1
+Philippines,2023,SOCI,6
+Poland,2023,AGRI,1
+Poland,2023,COMP,1
+Poland,2023,ENGI,6
+Poland,2023,ENVI,2
+Poland,2023,MATE,2
+Poland,2023,MEDI,12
+Poland,2023,MULT,2
+Poland,2023,NEUR,2
+Poland,2023,PHYS,27
+Poland,2023,PSYC,4
+Poland,2023,SOCI,3
+Portugal,2023,BIOC,1
+Portugal,2023,COMP,1
+Portugal,2023,ENGI,5
+Portugal,2023,ENVI,1
+Portugal,2023,MATE,1
+Portugal,2023,MEDI,11
+Portugal,2023,MULT,3
+Portugal,2023,NEUR,1
+Portugal,2023,PHAR,2
+Portugal,2023,PHYS,25
+Portugal,2023,PSYC,6
+Portugal,2023,SOCI,1
+Portugal,2023,VETE,1
+Puerto Rico,2023,ENGI,5
+Puerto Rico,2023,PHYS,25
+Qatar,2023,BIOC,1
+Qatar,2023,CENG,1
+Qatar,2023,CHEM,1
+Qatar,2023,ENGI,5
+Qatar,2023,MEDI,3
+Qatar,2023,PHYS,9
+Qatar,2023,PSYC,1
+Romania,2023,ENGI,2
+Romania,2023,MEDI,6
+Romania,2023,NEUR,4
+Romania,2023,PHYS,7
+Romania,2023,PSYC,2
+Romania,2023,SOCI,1
+Russian Federation,2023,AGRI,1
+Russian Federation,2023,CENG,1
+Russian Federation,2023,CHEM,1
+Russian Federation,2023,ENGI,2
+Russian Federation,2023,MEDI,5
+Russian Federation,2023,MULT,1
+Russian Federation,2023,NEUR,1
+Russian Federation,2023,PHYS,4
+Russian Federation,2023,PSYC,2
+Russian Federation,2023,SOCI,1
+Rwanda,2023,MEDI,2
+Rwanda,2023,NURS,1
+Saudi Arabia,2023,AGRI,1
+Saudi Arabia,2023,ARTS,1
+Saudi Arabia,2023,BIOC,5
+Saudi Arabia,2023,CENG,5
+Saudi Arabia,2023,CHEM,4
+Saudi Arabia,2023,COMP,6
+Saudi Arabia,2023,DENT,2
+Saudi Arabia,2023,ENGI,4
+Saudi Arabia,2023,ENVI,3
+Saudi Arabia,2023,IMMU,1
+Saudi Arabia,2023,MATE,2
+Saudi Arabia,2023,MATH,1
+Saudi Arabia,2023,MEDI,10
+Saudi Arabia,2023,MULT,1
+Saudi Arabia,2023,NEUR,2
+Saudi Arabia,2023,PHAR,1
+Saudi Arabia,2023,PHYS,2
+Saudi Arabia,2023,PSYC,1
+Saudi Arabia,2023,SOCI,1
+Senegal,2023,EART,1
+Senegal,2023,IMMU,1
+Senegal,2023,MEDI,1
+Senegal,2023,PSYC,2
+Senegal,2023,SOCI,1
+Serbia,2023,ENGI,6
+Serbia,2023,MEDI,3
+Serbia,2023,PHYS,25
+Serbia,2023,PSYC,2
+Serbia,2023,SOCI,1
+Serbia,2023,VETE,1
+Sierra Leone,2023,MEDI,1
+Singapore,2023,AGRI,2
+Singapore,2023,ARTS,1
+Singapore,2023,BIOC,2
+Singapore,2023,BUSI,1
+Singapore,2023,CHEM,4
+Singapore,2023,COMP,2
+Singapore,2023,EART,1
+Singapore,2023,ENER,3
+Singapore,2023,ENGI,1
+Singapore,2023,ENVI,1
+Singapore,2023,IMMU,1
+Singapore,2023,MATH,1
+Singapore,2023,MEDI,43
+Singapore,2023,MULT,4
+Singapore,2023,NEUR,3
+Singapore,2023,PHYS,1
+Singapore,2023,PSYC,2
+Singapore,2023,SOCI,5
+Slovakia,2023,AGRI,1
+Slovakia,2023,ENGI,1
+Slovakia,2023,MATE,1
+Slovakia,2023,MEDI,3
+Slovakia,2023,NEUR,1
+Slovakia,2023,PHYS,1
+Slovakia,2023,PSYC,3
+Slovakia,2023,SOCI,1
+Slovenia,2023,MATE,1
+Slovenia,2023,MEDI,4
+Slovenia,2023,PSYC,1
+Slovenia,2023,SOCI,1
+South Africa,2023,CENG,1
+South Africa,2023,EART,1
+South Africa,2023,IMMU,2
+South Africa,2023,MATE,1
+South Africa,2023,MEDI,10
+South Africa,2023,MULT,2
+South Africa,2023,PSYC,4
+South Africa,2023,SOCI,1
+South Korea,2023,AGRI,4
+South Korea,2023,BIOC,11
+South Korea,2023,BUSI,1
+South Korea,2023,CENG,3
+South Korea,2023,CHEM,6
+South Korea,2023,COMP,4
+South Korea,2023,ENER,1
+South Korea,2023,ENGI,8
+South Korea,2023,ENVI,2
+South Korea,2023,IMMU,2
+South Korea,2023,MATE,6
+South Korea,2023,MATH,1
+South Korea,2023,MEDI,45
+South Korea,2023,MULT,3
+South Korea,2023,NEUR,6
+South Korea,2023,NURS,1
+South Korea,2023,PHYS,28
+South Korea,2023,PSYC,6
+South Korea,2023,SOCI,1
+South Korea,2023,VETE,1
+South Sudan,2023,MEDI,1
+Spain,2023,AGRI,4
+Spain,2023,BIOC,2
+Spain,2023,CENG,3
+Spain,2023,CHEM,5
+Spain,2023,ENGI,6
+Spain,2023,ENVI,1
+Spain,2023,MATE,1
+Spain,2023,MEDI,24
+Spain,2023,MULT,3
+Spain,2023,NEUR,5
+Spain,2023,PHAR,1
+Spain,2023,PHYS,26
+Spain,2023,PSYC,5
+Spain,2023,SOCI,2
+Sri Lanka,2023,CENG,1
+Sri Lanka,2023,CHEM,2
+Sri Lanka,2023,COMP,1
+Sri Lanka,2023,EART,1
+Sri Lanka,2023,ENGI,6
+Sri Lanka,2023,MATE,1
+Sri Lanka,2023,MEDI,6
+Sri Lanka,2023,PHAR,1
+Sri Lanka,2023,PHYS,25
+Sudan,2023,ENGI,1
+Sudan,2023,MEDI,3
+Sweden,2023,AGRI,1
+Sweden,2023,BIOC,3
+Sweden,2023,BUSI,2
+Sweden,2023,CENG,2
+Sweden,2023,CHEM,4
+Sweden,2023,DENT,6
+Sweden,2023,ENER,2
+Sweden,2023,ENGI,1
+Sweden,2023,ENVI,3
+Sweden,2023,MATE,3
+Sweden,2023,MATH,3
+Sweden,2023,MEDI,21
+Sweden,2023,MULT,8
+Sweden,2023,NEUR,3
+Sweden,2023,PHAR,2
+Sweden,2023,PHYS,1
+Sweden,2023,PSYC,1
+Sweden,2023,SOCI,2
+Sweden,2023,VETE,1
+Switzerland,2023,AGRI,6
+Switzerland,2023,CENG,1
+Switzerland,2023,CHEM,1
+Switzerland,2023,DENT,1
+Switzerland,2023,EART,1
+Switzerland,2023,ENER,1
+Switzerland,2023,ENGI,5
+Switzerland,2023,ENVI,1
+Switzerland,2023,IMMU,2
+Switzerland,2023,MATE,1
+Switzerland,2023,MEDI,17
+Switzerland,2023,MULT,2
+Switzerland,2023,PHYS,29
+Switzerland,2023,PSYC,4
+Switzerland,2023,SOCI,2
+Syrian Arab Republic,2023,MATE,1
+Taiwan,2023,AGRI,4
+Taiwan,2023,BIOC,11
+Taiwan,2023,CENG,2
+Taiwan,2023,CHEM,3
+Taiwan,2023,ENGI,9
+Taiwan,2023,IMMU,2
+Taiwan,2023,MATE,4
+Taiwan,2023,MEDI,39
+Taiwan,2023,MULT,5
+Taiwan,2023,NEUR,4
+Taiwan,2023,NURS,2
+Taiwan,2023,PHAR,1
+Taiwan,2023,PHYS,26
+Taiwan,2023,PSYC,2
+Taiwan,2023,SOCI,2
+Taiwan,2023,VETE,1
+Tanzania,2023,IMMU,1
+Tanzania,2023,MEDI,1
+Thailand,2023,AGRI,180
+Thailand,2023,ARTS,29
+Thailand,2023,BIOC,192
+Thailand,2023,BUSI,46
+Thailand,2023,CENG,134
+Thailand,2023,CHEM,182
+Thailand,2023,COMP,131
+Thailand,2023,DECI,3
+Thailand,2023,DENT,70
+Thailand,2023,EART,32
+Thailand,2023,ECON,28
+Thailand,2023,ENER,71
+Thailand,2023,ENGI,160
+Thailand,2023,ENVI,99
+Thailand,2023,HEAL,19
+Thailand,2023,IMMU,80
+Thailand,2023,MATE,127
+Thailand,2023,MATH,33
+Thailand,2023,MEDI,593
+Thailand,2023,MULT,187
+Thailand,2023,NEUR,55
+Thailand,2023,NURS,26
+Thailand,2023,PHAR,59
+Thailand,2023,PHYS,95
+Thailand,2023,PSYC,28
+Thailand,2023,SOCI,115
+Thailand,2023,VETE,35
+Togo,2023,MEDI,1
+Trinidad and Tobago,2023,MEDI,2
+Tunisia,2023,MEDI,3
+Tunisia,2023,PSYC,2
+Turkey,2023,AGRI,1
+Turkey,2023,BUSI,1
+Turkey,2023,CENG,1
+Turkey,2023,CHEM,5
+Turkey,2023,ENGI,5
+Turkey,2023,MEDI,12
+Turkey,2023,MULT,1
+Turkey,2023,NEUR,2
+Turkey,2023,PHYS,25
+Turkey,2023,PSYC,5
+Turkey,2023,SOCI,1
+Uganda,2023,BIOC,2
+Uganda,2023,MEDI,3
+Uganda,2023,PSYC,2
+Uganda,2023,SOCI,1
+Ukraine,2023,ENGI,5
+Ukraine,2023,MEDI,6
+Ukraine,2023,PHYS,25
+Ukraine,2023,PSYC,2
+Ukraine,2023,SOCI,1
+United Arab Emirates,2023,CHEM,2
+United Arab Emirates,2023,EART,1
+United Arab Emirates,2023,MEDI,3
+United Arab Emirates,2023,NEUR,1
+United Arab Emirates,2023,PSYC,1
+United Kingdom,2023,AGRI,15
+United Kingdom,2023,ARTS,2
+United Kingdom,2023,BIOC,9
+United Kingdom,2023,BUSI,1
+United Kingdom,2023,CENG,4
+United Kingdom,2023,CHEM,6
+United Kingdom,2023,COMP,5
+United Kingdom,2023,EART,3
+United Kingdom,2023,ECON,3
+United Kingdom,2023,ENER,5
+United Kingdom,2023,ENGI,7
+United Kingdom,2023,ENVI,2
+United Kingdom,2023,IMMU,10
+United Kingdom,2023,MATE,4
+United Kingdom,2023,MATH,1
+United Kingdom,2023,MEDI,69
+United Kingdom,2023,MULT,13
+United Kingdom,2023,NEUR,12
+United Kingdom,2023,NURS,2
+United Kingdom,2023,PHAR,2
+United Kingdom,2023,PHYS,32
+United Kingdom,2023,PSYC,6
+United Kingdom,2023,SOCI,6
+United Kingdom,2023,VETE,2
+United States,2023,AGRI,30
+United States,2023,ARTS,1
+United States,2023,BIOC,25
+United States,2023,BUSI,11
+United States,2023,CENG,12
+United States,2023,CHEM,18
+United States,2023,COMP,4
+United States,2023,DENT,6
+United States,2023,EART,4
+United States,2023,ECON,4
+United States,2023,ENER,2
+United States,2023,ENGI,10
+United States,2023,ENVI,7
+United States,2023,HEAL,2
+United States,2023,IMMU,6
+United States,2023,MATE,10
+United States,2023,MATH,1
+United States,2023,MEDI,157
+United States,2023,MULT,32
+United States,2023,NEUR,18
+United States,2023,NURS,6
+United States,2023,PHAR,6
+United States,2023,PHYS,32
+United States,2023,PSYC,11
+United States,2023,SOCI,12
+United States,2023,VETE,6
+Uruguay,2023,MEDI,3
+Uruguay,2023,PSYC,1
+Uzbekistan,2023,ENGI,5
+Uzbekistan,2023,PHYS,8
+Venezuela,2023,MEDI,1
+Viet Nam,2023,AGRI,6
+Viet Nam,2023,BIOC,2
+Viet Nam,2023,CENG,3
+Viet Nam,2023,CHEM,3
+Viet Nam,2023,COMP,3
+Viet Nam,2023,EART,5
+Viet Nam,2023,ECON,1
+Viet Nam,2023,ENGI,14
+Viet Nam,2023,ENVI,7
+Viet Nam,2023,IMMU,2
+Viet Nam,2023,MATE,2
+Viet Nam,2023,MATH,1
+Viet Nam,2023,MEDI,20
+Viet Nam,2023,MULT,3
+Viet Nam,2023,NEUR,2
+Viet Nam,2023,NURS,1
+Viet Nam,2023,PHAR,2
+Viet Nam,2023,PSYC,1
+Viet Nam,2023,SOCI,5
+Yemen,2023,MEDI,3
+Zambia,2023,ENGI,1
+Zambia,2023,MEDI,1
+Zimbabwe,2023,MEDI,3
